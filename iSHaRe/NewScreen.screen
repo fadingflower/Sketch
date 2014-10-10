@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<model:Screen xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore" theme="clean">
+  <widgets xsi:type="model:Browser" id="2" x="32" y="8" width="601" text="Browser&#xA;http://..." measuredWidth="601" measuredHeight="300"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>
