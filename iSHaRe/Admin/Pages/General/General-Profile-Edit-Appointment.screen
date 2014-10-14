@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" x="-8" measuredWidth="1356" measuredHeight="760" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../Frame/Frame_General.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="2" x="4" y="304" width="226" height="33" measuredWidth="226" measuredHeight="33" background="#999999" alpha="161"/>
+  <widgets xsi:type="model:Panel" id="3" x="4" y="304" width="226" height="33" measuredWidth="226" measuredHeight="33" background="#999999" alpha="161"/>
+  <widgets xsi:type="model:Label" id="4" x="269" y="178" text="Edit Profile - Joseph Yong" measuredWidth="185" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="5" x="325" y="225" text="User Profile" measuredWidth="78" measuredHeight="25">
+    <font size="13px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="325" y="267" text="Login Account" measuredWidth="95" measuredHeight="25">
+    <font size="13px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="7" x="277" y="222" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Icon" id="8" x="281" y="311" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
+  <widgets xsi:type="model:Icon" id="9" x="1291" y="176" measuredWidth="32" measuredHeight="32" icon="assets/gl-floppy-saved (large)"/>
+  <widgets xsi:type="model:HLine" id="10" x="260" y="207" width="1078" measuredWidth="1078" measuredHeight="6"/>
+  <widgets xsi:type="model:Icon" id="11" x="1250" y="176" measuredWidth="32" measuredHeight="32" icon="arrow-left (large)"/>
+  <widgets xsi:type="model:Label" id="12" x="325" y="314" text="Appointment" measuredWidth="88" measuredHeight="25">
+    <font size="13px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="13" x="277" y="264" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Label" id="14" x="325" y="520" text="CIRB Position" measuredWidth="89" measuredHeight="25">
+    <font size="13px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="15" x="281" y="517" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Table" id="16" x="325" y="401" width="644" text="Institution v,Department,Designate,(align:center).Actions&#xA;National Care Center(NCC) , CMB Office, Consultant,[Del]&#xA;Singapore General Hospital, Research Development Office, Consutant,[De]" measuredWidth="644" measuredHeight="101" alternative="#eeeeee">
+    <font size="17px"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="17" x="325" y="352" measuredWidth="32" measuredHeight="32" icon="assets/gl-plus (large)"/>
+  <widgets xsi:type="model:Label" id="18" x="325" y="576" text="User Group" measuredWidth="75" measuredHeight="25">
+    <font size="13px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="19" x="281" y="573" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Label" id="20" x="325" y="622" text="Institution User Group" measuredWidth="144" measuredHeight="25">
+    <font size="13px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="21" x="281" y="619" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" locked="true" measuredWidth="1356" measuredHeight="760" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../Frame/Frame_General.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="2" x="278" y="208" width="1059" measuredWidth="1059" measuredHeight="6"/>
+  <widgets xsi:type="model:Panel" id="3" x="24" y="180" width="226" height="33" measuredWidth="226" measuredHeight="33" background="#999999" alpha="161"/>
+  <widgets xsi:type="model:Label" id="11" x="288" y="178" width="144" text="Department" measuredWidth="144" measuredHeight="33">
+    <font size="19px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Master" id="14" x="1001" y="171" measuredWidth="336" measuredHeight="40">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Select"/>
+    <overrides>
+      <widgets ref="24" width="336" text="Select an Institution"/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Table" id="18" x="288" y="272" width="1046" height="192" text="Department Code v,Department Name,Active, (align:center).Actions&#xA;Cancer_&amp;_Stem_Cell_Biology,Cancer &amp; Stem Cell Biology, Yes,[Edit] [View] [Del]&#xA;Health_Services_&amp;_Systems_Research, Health Services &amp; Systems Research,Yes, [Edit] [View] [Del]&#xA;Neuroscience_and_Behavioral_Disorders,Neuroscience and Behavioral Disorders, Yes,[Edit] [View] [Del]&#xA;Cardiovascular_&amp;_Metabolic_Disorders, Cardiovascular &amp; Metabolic Disorders, Yes,[Edit] [View] [Del]&#xA;Emerging_Infectious_Diseases, Emerging Infectious Diseases, Yes, [Edit] [View] [Del]" measuredWidth="1046" measuredHeight="192" alternative="#eeeeee">
+    <font size="17px"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="19" x="296" y="224" measuredWidth="32" measuredHeight="32" icon="assets/gl-plus (large)"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

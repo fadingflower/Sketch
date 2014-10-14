@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="14" x="-2" y="-4" measuredWidth="1356" measuredHeight="760" dimmed="true">
+    <screen xsi:type="model:Screen" href="../Frame/Frame_iShare.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="3" x="28" y="175" width="172" text="Administration Task" measuredWidth="172" measuredHeight="32" textAlignment="Center" icon="assets/gl-chevron-down (large)">
+    <font size="13px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="4" x="28" y="207" width="1306" measuredWidth="1306" measuredHeight="6"/>
+  <widgets xsi:type="model:Icon" id="5" x="1279" y="162" measuredWidth="48" measuredHeight="48" icon="assets/gl-edit (xlarge)"/>
+  <widgets xsi:type="model:Panel" id="6" x="101" y="221" width="308" height="116" measuredWidth="308" measuredHeight="116" background="#0000ff" alpha="145" border="solid-rounded"/>
+  <widgets xsi:type="model:Label" id="7" x="115" y="230" width="265" text="Add an Account" measuredWidth="265" measuredHeight="97" textAlignment="Center" foreground="#ffffff" icon="user (xlarge)" iconPosition="top">
+    <font size="28px" bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="8" x="468" y="221" width="308" height="116" measuredWidth="308" measuredHeight="116" background="#0000ff" alpha="145" border="solid-rounded"/>
+  <widgets xsi:type="model:Label" id="9" x="500" y="230" width="242" text="Acess Right" measuredWidth="242" measuredHeight="97" textAlignment="Center" foreground="#ffffff" icon="key (xlarge)" iconPosition="top">
+    <font size="28px" bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="10" x="831" y="221" width="308" height="116" measuredWidth="308" measuredHeight="116" background="#0000ff" alpha="145" border="solid-rounded"/>
+  <widgets xsi:type="model:Label" id="11" x="844" y="230" width="283" text="Make an anouncement" measuredWidth="283" measuredHeight="97" textAlignment="Center" foreground="#ffffff" icon="assets/gl-credit-card (xlarge)" iconPosition="top">
+    <font size="28px" bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="12" x="101" y="375" width="308" height="116" measuredWidth="308" measuredHeight="116" background="#ff0000" alpha="145" border="solid-rounded"/>
+  <widgets xsi:type="model:Icon" id="15" x="216" y="401" width="68" height="64" measuredWidth="68" measuredHeight="64" foreground="#ffffff" icon="assets/gl-plus (xlarge)"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

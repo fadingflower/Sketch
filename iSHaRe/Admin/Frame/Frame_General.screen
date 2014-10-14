@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="3" y="-4" measuredWidth="1356" measuredHeight="760" dimmed="true">
+    <screen xsi:type="model:Screen" href="Frame_With_Navigator.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="2" x="18" y="174" text="* Department&#xD;&#xA;* CRO&#xD;&#xA;* User&#xD;&#xA;* Demographic&#xD;&#xA;* Profile&#xD;&#xA;* Login Account&#xD;&#xA;* Access Right&#xD;&#xA;* User Group&#xD;&#xA;* Institution Group" measuredWidth="234" measuredHeight="288">
+    <font size="24px"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

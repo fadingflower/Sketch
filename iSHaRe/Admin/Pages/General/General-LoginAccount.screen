@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" x="-16" y="2" measuredWidth="1356" measuredHeight="760" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../Frame/Frame_General.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="2" x="18" y="341" width="216" height="33" measuredWidth="216" measuredHeight="33" background="#999999" alpha="161"/>
+  <widgets xsi:type="model:Master" id="3" locked="true" measuredWidth="1356" measuredHeight="760" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../Frame/Frame_General.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="4" x="288" y="178" width="144" text="Login Account" measuredWidth="144" measuredHeight="33">
+    <font size="19px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="6" x="288" y="224" measuredWidth="32" measuredHeight="32" icon="assets/gl-plus (large)"/>
+  <widgets xsi:type="model:HLine" id="7" x="269" y="208" width="1078" measuredWidth="1078" measuredHeight="6"/>
+  <widgets xsi:type="model:Table" id="8" x="285" y="263" width="676" height="202" text="Login ID v,User Profile,AD Domain,Active,(align:center).Actions&#xA;joseph-y,Joseph Yong,, Yes,[Edit] [View] [Del] [Reset PWD]&#xA;josephy, Joseph Yong,Visitor, yes, [Edit] [View] [Del] [Reset PWD]&#xA;eddom-l, Eddom Lin,,Yes,[Edit] [View] [Del] [Reset PWD]&#xA;eddoml,Eddom Lin,Visitor,No,[Edit] [View] [Del] [Reset PWD]&#xA;medinno-xiaobo,Bo Xiao,Visitor,Yes,[Edit] [View] [Del] [Reset PWD]" measuredWidth="676" measuredHeight="202" alternative="#eeeeee">
+    <font size="17px"/>
+  </widgets>
+  <widgets xsi:type="model:SearchField" id="9" x="1200" y="178" width="130" text="Search" measuredWidth="130" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="10" x="28" y="341" width="226" height="33" measuredWidth="226" measuredHeight="33" background="#999999" alpha="161"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

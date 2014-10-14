@@ -56,8 +56,9 @@
       </widgets>
     </overrides>
   </widgets>
-  <widgets xsi:type="model:Panel" id="273" x="-138" y="168" width="1336" height="582" locked="true" measuredWidth="1336" measuredHeight="582" border="solid-rounded"/>
+  <widgets xsi:type="model:Panel" id="273" x="120" y="168" width="1078" height="582" measuredWidth="1078" measuredHeight="582" border="solid-rounded"/>
   <widgets xsi:type="model:Icon" id="277" x="1155" y="65" width="32" height="32" measuredWidth="32" measuredHeight="32" icon="assets/gl-log-out (large)"/>
+  <widgets xsi:type="model:Panel" id="278" x="-138" y="168" width="250" height="582" measuredWidth="250" measuredHeight="582" border="solid-rounded"/>
   <hRuler>
     <guides position="1313"/>
   </hRuler>

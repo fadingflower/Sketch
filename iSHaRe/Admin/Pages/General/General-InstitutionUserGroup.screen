@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" x="-24" measuredWidth="1356" measuredHeight="760" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../Frame/Frame_General.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="2" x="2" y="400" width="226" height="33" measuredWidth="226" measuredHeight="33" background="#999999" alpha="161"/>
+  <widgets xsi:type="model:HLine" id="3" x="244" y="208" width="1078" measuredWidth="1078" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="4" x="254" y="178" width="144" text="User Group" measuredWidth="144" measuredHeight="33">
+    <font size="19px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Table" id="5" x="261" y="272" width="483" height="194" text="User Group v,User Profile, (align:center).Actions&#xA;Member of Institution,Joseph Yong, [Del]&#xA;CIRB Reviewer, Joseph Yong, [Del]&#xA;Member of Institution, Eddom Lin, [Del]&#xA;RDO, Eddom Lin, [Del]&#xA;Member of Institution,Xiao Bo, [Del]" measuredWidth="483" measuredHeight="194" alternative="#eeeeee">
+    <font size="17px"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="6" x="704" y="224" measuredWidth="32" measuredHeight="32" icon="assets/gl-plus (large)"/>
+  <widgets xsi:type="model:SearchField" id="7" x="1192" y="178" width="108" text="Search" measuredWidth="108" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Master" id="12" x="261" y="220" measuredWidth="156" measuredHeight="40">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Text%20Input"/>
+    <overrides>
+      <widgets ref="1" width="156" text="Select a user group"/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Master" id="13" x="480" y="220" measuredWidth="156" measuredHeight="40">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Text%20Input"/>
+    <overrides>
+      <widgets ref="1" width="156" text="Select a user profile"/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="14" x="416" y="224" measuredWidth="32" measuredHeight="32" icon="assets/gl-folder-open (large)"/>
+  <widgets xsi:type="model:Icon" id="15" x="635" y="224" measuredWidth="32" measuredHeight="32" icon="assets/gl-folder-open (large)"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

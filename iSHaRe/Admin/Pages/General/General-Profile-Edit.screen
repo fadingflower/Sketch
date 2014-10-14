@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="2" y="-24" locked="true" measuredWidth="1356" measuredHeight="760" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../Frame/Frame_General.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="3" x="24" y="282" width="226" height="33" measuredWidth="226" measuredHeight="33" background="#999999" alpha="161"/>
+  <widgets xsi:type="model:Icon" id="4" x="1307" y="152" locked="true" measuredWidth="32" measuredHeight="32" icon="assets/gl-floppy-saved (large)"/>
+  <widgets xsi:type="model:HLine" id="5" x="268" y="183" width="1078" measuredWidth="1078" measuredHeight="6"/>
+  <widgets xsi:type="model:Icon" id="6" x="1266" y="152" locked="true" measuredWidth="32" measuredHeight="32" icon="arrow-left (large)"/>
+  <widgets xsi:type="model:Label" id="7" x="285" y="154" text="Edit Profile - Joseph Yong" locked="true" measuredWidth="185" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="9" x="321" y="203" text="User Profile" measuredWidth="78" measuredHeight="25">
+    <font size="13px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="10" x="277" y="200" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Label" id="11" x="321" y="258" text="Login Account" measuredWidth="95" measuredHeight="25">
+    <font size="13px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="12" x="277" y="255" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Label" id="13" x="321" y="320" text="Appointment" measuredWidth="88" measuredHeight="25">
+    <font size="13px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="14" x="277" y="317" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Label" id="15" x="321" y="384" text="CIRB Position" measuredWidth="89" measuredHeight="25">
+    <font size="13px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="16" x="277" y="381" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Label" id="17" x="321" y="443" text="User Group" measuredWidth="75" measuredHeight="25">
+    <font size="13px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="18" x="278" y="440" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Label" id="19" x="321" y="488" text="Institution User Group" measuredWidth="144" measuredHeight="25">
+    <font size="13px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="20" x="277" y="485" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

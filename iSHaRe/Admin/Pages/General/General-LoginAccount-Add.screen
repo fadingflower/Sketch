@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" x="8" locked="true" measuredWidth="1356" measuredHeight="760" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../Frame/Frame_General.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="2" x="28" y="341" width="226" height="33" measuredWidth="226" measuredHeight="33" background="#999999" alpha="161"/>
+  <widgets xsi:type="model:Icon" id="3" x="1297" y="178" measuredWidth="32" measuredHeight="32" icon="assets/gl-floppy-saved (large)"/>
+  <widgets xsi:type="model:HLine" id="4" x="276" y="216" width="1078" measuredWidth="1078" measuredHeight="6"/>
+  <widgets xsi:type="model:Icon" id="5" x="1256" y="178" measuredWidth="32" measuredHeight="32" icon="arrow-left (large)"/>
+  <widgets xsi:type="model:Label" id="6" x="303" y="180" text="Add Login Account" measuredWidth="140" measuredHeight="28">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="304" y="236" text="Login ID" measuredWidth="50" measuredHeight="23">
+    <font size="12px"/>
+  </widgets>
+  <widgets xsi:type="model:Master" id="8" x="390" y="232" measuredWidth="260" measuredHeight="31">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Text%20Input%20Small"/>
+    <overrides>
+      <widgets ref="4" width="260" text="Joseph-y"/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Label" id="9" x="303" y="288" text="Password:" measuredWidth="59" measuredHeight="23">
+    <font size="12px"/>
+  </widgets>
+  <widgets xsi:type="model:Master" id="10" x="391" y="284" measuredWidth="260" measuredHeight="31">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Text%20Input%20Small"/>
+    <overrides>
+      <widgets ref="4" width="260" text="***************"/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Label" id="13" x="304" y="346" text="Profile :" measuredWidth="46" measuredHeight="23">
+    <font size="12px"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="15" x="303" y="401" text="AD Domain:" measuredWidth="70" measuredHeight="23">
+    <font size="12px"/>
+  </widgets>
+  <widgets xsi:type="model:Master" id="16" x="389" y="397" measuredWidth="260" measuredHeight="31">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Select"/>
+    <overrides>
+      <widgets ref="24" width="260" text="None">
+        <font size="12px"/>
+      </widgets>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="17" x="659" y="232" measuredWidth="32" measuredHeight="32" icon="assets/gl-ok-sign (large)"/>
+  <widgets xsi:type="model:Icon" id="18" x="659" y="284" measuredWidth="32" measuredHeight="32" icon="assets/gl-ok-sign (large)"/>
+  <widgets xsi:type="model:Icon" id="19" x="659" y="342" measuredWidth="32" measuredHeight="32" icon="assets/gl-folder-open (large)"/>
+  <widgets xsi:type="model:Master" id="20" x="390" y="342" measuredWidth="260" measuredHeight="31">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Text%20Input%20Small"/>
+    <overrides>
+      <widgets ref="4" width="260" text="Browse one..."/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Master" id="21" x="435" y="450" measuredWidth="42" measuredHeight="28">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Radio%20Button"/>
+    <overrides>
+      <widgets ref="20" text="Yes">
+        <attributes key="selected" value="true"/>
+      </widgets>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Label" id="22" x="304" y="452" text="Active" measuredWidth="39" measuredHeight="23">
+    <font size="12px"/>
+  </widgets>
+  <widgets xsi:type="model:Master" id="23" x="544" y="450" measuredWidth="40" measuredHeight="28">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Radio%20Button"/>
+    <overrides>
+      <widgets ref="20" text="No"/>
+    </overrides>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
