@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" locked="true" measuredWidth="1347" measuredHeight="735" dimmed="true">
+    <screen xsi:type="model:Screen" href="Frame_With_Nagivator.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="3" x="112" y="122" width="85" height="27" measuredWidth="85" measuredHeight="27" border="solid-rounded"/>
+  <widgets xsi:type="model:Label" id="2" x="112" y="124" width="88" text="Study" measuredWidth="88" measuredHeight="23" textAlignment="Center">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="4" x="31" y="188" width="217" text="* My Study&#xD;&#xA;* Institution Study&#xD;&#xA;* My Task" measuredWidth="217" measuredHeight="75">
+    <font size="19px"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" locked="true" measuredWidth="1347" measuredHeight="735" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../Frame/Dashboard_Common.screen#/"/>
+    <overrides>
+      <widgets ref="9" x="1112" width="204" text="EMail: support@singhealth.com.sg&#xD;&#xA;Tel: xxxx-xxxx xx"/>
+      <widgets ref="4" x="1096"/>
+      <widgets ref="8" x="1112" width="204"/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="3" x="312" y="202" width="137" height="83" measuredWidth="137" measuredHeight="83" background="#0b5394" foreground="#0b5394"/>
+  <widgets xsi:type="model:Label" id="4" x="352" y="215" text="My Study" measuredWidth="53" measuredHeight="58" textAlignment="Center" foreground="#ffffff" icon="assets/gl-folder-open (large)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Master" id="13" x="432" y="192" measuredWidth="28" measuredHeight="23">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Buttons.screen#Button"/>
+    <overrides>
+      <widgets ref="21" height="23" text="5">
+        <attributes key="style" value="round"/>
+        <attributes key="background" value="#ff0000"/>
+      </widgets>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="14" x="512" y="202" width="137" height="83" measuredWidth="137" measuredHeight="83" background="#0b5394" foreground="#0b5394"/>
+  <widgets xsi:type="model:Label" id="15" x="536" y="215" text="Institution Study" measuredWidth="90" measuredHeight="58" textAlignment="Center" foreground="#ffffff" icon="assets/gl-list (large)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="17" x="712" y="202" width="137" height="83" measuredWidth="137" measuredHeight="83" background="#0b5394" foreground="#0b5394"/>
+  <widgets xsi:type="model:Label" id="18" x="760" y="215" text="My Task" measuredWidth="47" measuredHeight="58" textAlignment="Center" foreground="#ffffff" icon="assets/gl-tasks (large)" iconPosition="top">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Master" id="19" x="832" y="192" measuredWidth="28" measuredHeight="23">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Buttons.screen#Button"/>
+    <overrides>
+      <widgets ref="21" height="23" text="5">
+        <attributes key="style" value="round"/>
+        <attributes key="background" value="#ff0000"/>
+      </widgets>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Label" id="27" x="340" y="332" text="Notification (2/20)" measuredWidth="109" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="28" x="292" y="328" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
+  <widgets xsi:type="model:Text" id="29" x="398" y="383" width="400" height="49" text="you have create a new e-IACUC study and save as draft,click here to view study detail." measuredWidth="400" measuredHeight="49">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="30" x="352" y="383" measuredWidth="32" measuredHeight="32" icon="assets/gl-question-sign (large)"/>
+  <widgets xsi:type="model:Text" id="31" x="404" y="453" width="400" height="44" text="your e-IACUC study &quot;xxxxxxxxxxxxxxx&quot; (protocol No: 2014xxxx001) has been approved, click here to view study detail." measuredWidth="400" measuredHeight="44">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="32" x="352" y="453" measuredWidth="32" measuredHeight="32" icon="assets/gl-ok-sign (large)"/>
+  <widgets xsi:type="model:Text" id="33" x="404" y="528" width="400" height="44" text="your e-IACUC study &quot;xxxxxxxxxxxxxxx&quot; (protocol No: 2014xxxx001) has been approved, click here to view study detail." measuredWidth="400" measuredHeight="44">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="34" x="352" y="528" measuredWidth="32" measuredHeight="32" icon="assets/gl-ok-sign (large)"/>
+  <widgets xsi:type="model:Text" id="35" x="398" y="592" width="400" height="49" text="you have create a new e-IACUC study and save as draft,click here to view study detail." measuredWidth="400" measuredHeight="49">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="36" x="352" y="592" measuredWidth="32" measuredHeight="32" icon="assets/gl-question-sign (large)"/>
+  <widgets xsi:type="model:Link" id="37" x="1072" y="344" text="more" measuredWidth="31" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="38" x="273" y="304" width="836" measuredWidth="836" measuredHeight="6"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
