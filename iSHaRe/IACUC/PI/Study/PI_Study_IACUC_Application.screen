@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="5" x="-8" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../Frame/Frame_iShaRe.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="2" x="113" y="132" width="85" height="28" measuredWidth="85" measuredHeight="28" border="solid-rounded"/>
+  <widgets xsi:type="model:Label" id="3" x="114" y="134" width="88" text="Study" measuredWidth="88" measuredHeight="23" textAlignment="Center">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="6" x="12" y="200" width="1315" measuredWidth="1315" measuredHeight="6"/>
+  <widgets xsi:type="model:Breadcrumbs" id="9" x="22" y="178" text="Study Workspace -> IACUC Application" measuredWidth="220" measuredHeight="23">
+    <font bold="true"/>
+    <items x="0" y="0" width="217" height="23" text="Study Workspace -> IACUC Application"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="10" x="282" y="205" height="528" measuredWidth="6" measuredHeight="528"/>
+  <widgets xsi:type="model:Text" id="11" x="25" y="242" width="249" height="480" text="* Overview&#xD;&#xA;* Declaration of Ethics/Biosafety...&#xD;&#xA;* Section 1:Study Funding Information&#xD;&#xA;* Section A: Administrative data&#xD;&#xA;* Section B:Objectives of the Study&#xD;&#xA;* Section C:Abstract of the study&#xD;&#xA;* Section D:Animal Requirements&#xD;&#xA;* Section E:Rationale for Animal Use&#xD;&#xA;* Section F:Transport of Animals&#xD;&#xA;* Section G:Description of...&#xD;&#xA;* Section H:Humane Endpoint Criteria&#xD;&#xA;* Section I:Anaesthesia/Analgesia...&#xD;&#xA;* Section J:Survival Surgery&#xD;&#xA;* Section K:Pain &amp; Distress Category&#xD;&#xA;* Section L:Method of Euthanasia...&#xD;&#xA;* Section M:Hazardous Agents&#xD;&#xA;* Section N:Biological Material...&#xD;&#xA;* Section O:Special Concerns...&#xD;&#xA;* Section P:Unnecessary Duplication...&#xD;&#xA;* Section Q:Declaration by...&#xD;&#xA;* Section R:&#x9;Final Approva by..." measuredWidth="249" measuredHeight="480">
+    <font size="13px"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="13" x="313" y="221" text="Section A:Administrative Data" measuredWidth="264" measuredHeight="32" textAlignment="Center" icon="assets/gl-chevron-down (large)">
+    <font size="17px"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="14" x="352" y="272" text="1. Project Title" measuredWidth="87" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="15" x="363" y="302" width="653" height="72" text="input your project title..." measuredWidth="653" measuredHeight="72">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="16" x="352" y="392" text="2. Project No." measuredWidth="81" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="17" x="363" y="432" width="652" text="input your project No..." measuredWidth="652" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="18" x="352" y="480" text="3. Project Adminstrator" measuredWidth="136" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Table" id="19" x="293" y="536" width="1011" text="Name, Designation, Qualification,Institution,Department,Role,EMail, Office Contact No.,RCULA Cert No./Date,Attachment,Nominated Contact Person,Action &#xD;&#xA;KKH-PA, Consultant,PhD,KKH,OOR,PA,kkh-pa@singhealth.com.sg,-, 2233232/23-Oct-1994,cert.pdf,Dr Xiaobo,[Del]" measuredWidth="1011" measuredHeight="44" alternative="#eeeeee">
+    <font size="11px"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="20" x="368" y="502" text="Add" measuredWidth="52" measuredHeight="24" textAlignment="Center" foreground="#0000ff" icon="assets/gl-plus (medium)">
+    <font size="12px"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="21" x="25" y="293" width="248" height="19" measuredWidth="248" measuredHeight="19" background="#cfe2f3" alpha="161"/>
+  <widgets xsi:type="model:Label" id="22" x="352" y="600" text="4. Proposed Project Commencement Date:" measuredWidth="243" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:DateField" id="23" x="363" y="640" width="296" text="23-Oct-2014" measuredWidth="296" measuredHeight="23"/>
+  <widgets xsi:type="model:Label" id="24" x="352" y="688" text="5. Expected Duration of the Project:" measuredWidth="206" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VScrollbar" id="25" x="1308" y="205" height="529" measuredWidth="17" measuredHeight="529"/>
+  <widgets xsi:type="model:Icon" id="26" x="290" y="174" measuredWidth="24" measuredHeight="24" icon="save (medium)"/>
+  <widgets xsi:type="model:Tabs" id="28" x="25" y="216" width="258" text="Study,Section" measuredWidth="258" measuredHeight="27" selection="0">
+    <items x="1" y="0" width="51" height="27" text="Study"/>
+    <items x="52" y="0" width="60" height="27" text="Section"/>
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="72" x="-29" y="-10" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../Frame/Frame_iShaRe_IACUC.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="4" x="-8" y="200" width="1313" measuredWidth="1313" measuredHeight="6"/>
+  <widgets xsi:type="model:Breadcrumbs" id="7" x="12" y="170" text="Review, Change Summary" measuredWidth="164" measuredHeight="23">
+    <font bold="true"/>
+    <items x="0" y="0" width="43" height="23" text="Review"/>
+    <items x="63" y="0" width="98" height="23" text="Change Summary"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="8" x="24" y="216" text="Protocol Title:" measuredWidth="84" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="9" x="24" y="238" text="Protocol Number:" measuredWidth="105" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="10" x="148" y="216" text="this is de demostration title" measuredWidth="149" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="11" x="148" y="238" text="2014102201/f1" measuredWidth="81" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="12" x="24" y="260" text="Amended Version:" measuredWidth="107" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="13" x="240" y="260" text="Previous Version:" measuredWidth="101" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="14" x="148" y="260" text="3" measuredWidth="12" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="15" x="352" y="260" text="2" measuredWidth="12" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="16" x="1256" y="166" measuredWidth="32" measuredHeight="32" icon="assets/gl-refresh (large)"/>
+  <widgets xsi:type="model:HLine" id="17" x="-8" y="288" width="1313" measuredWidth="1313" measuredHeight="6"/>
+  <widgets xsi:type="model:Icon" id="21" x="3" y="300" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Label" id="22" x="49" y="304" text="Section A" measuredWidth="59" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="23" x="113" y="304" text="Changed" measuredWidth="54" measuredHeight="23" foreground="#ff0000">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VScrollbar" id="37" x="1287" y="293" height="432" measuredWidth="17" measuredHeight="432"/>
+  <widgets xsi:type="model:Master" id="73" x="306" y="170" measuredWidth="97" measuredHeight="28">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Radio%20Button"/>
+    <overrides>
+      <widgets ref="20" text="All Sections"/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Master" id="74" x="424" y="170" measuredWidth="166" measuredHeight="28">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Radio%20Button"/>
+    <overrides>
+      <widgets ref="20" text="Changed Section Only">
+        <attributes key="selected" value="true"/>
+      </widgets>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Label" id="75" x="49" y="361" text="Current Approved Version" measuredWidth="143" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="78" x="49" y="440" text="Proposed Amendment" measuredWidth="126" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="80" x="1171" y="250" measuredWidth="125" measuredHeight="33" src="../../../assets/Sec_Rev_Change_Summary_2_image(3).png"/>
+  <widgets xsi:type="model:Label" id="83" x="34" y="336" text="Proposed Project Commencement Date" measuredWidth="227" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="85" x="90" y="392" width="72" height="29" measuredWidth="72" measuredHeight="29" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:HLine" id="86" x="93" y="404" width="66" measuredWidth="66" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="87" x="90" y="397" text="24, Oct, 2014" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="88" x="90" y="469" width="79" height="29" measuredWidth="79" measuredHeight="29" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="90" x="93" y="472" text="26, Oct, 2014" measuredWidth="73" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="91" x="49" y="553" text="Current Approved Version" measuredWidth="143" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="92" x="49" y="632" text="Proposed Amendment" measuredWidth="126" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="93" x="34" y="528" text="Does this protocol require histopathologist’s assistance?  " measuredWidth="320" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="97" x="90" y="661" width="79" height="29" measuredWidth="79" measuredHeight="29" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:RadioButton" id="101" x="100" y="664" text="Yes" measuredWidth="38" measuredHeight="23" selected="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="102" x="90" y="584" width="72" height="29" measuredWidth="72" measuredHeight="29" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:RadioButton" id="100" x="100" y="590" text="No" measuredWidth="36" measuredHeight="23" selected="true">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="105" x="94" y="598" width="66" measuredWidth="66" measuredHeight="6"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

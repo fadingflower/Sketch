@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="5" x="-8" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../Frame/Frame_iShaRe.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="2" x="113" y="132" width="85" height="28" measuredWidth="85" measuredHeight="28" border="solid-rounded"/>
+  <widgets xsi:type="model:Label" id="3" x="114" y="134" width="88" text="Study" measuredWidth="88" measuredHeight="23" textAlignment="Center">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="6" x="12" y="200" width="1315" measuredWidth="1315" measuredHeight="6"/>
+  <widgets xsi:type="model:Breadcrumbs" id="9" x="22" y="178" text="Study Workspace -> Training Workshop Report" measuredWidth="266" measuredHeight="23">
+    <font bold="true"/>
+    <items x="0" y="0" width="263" height="23" text="Study Workspace -> Training Workshop Report"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="10" x="282" y="205" height="528" measuredWidth="6" measuredHeight="528"/>
+  <widgets xsi:type="model:Label" id="13" x="313" y="221" text="Training Workshop Report" measuredWidth="238" measuredHeight="32" textAlignment="Center" icon="assets/gl-chevron-down (large)">
+    <font size="17px"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="14" x="352" y="272" text="IACUC Ref No.:" measuredWidth="89" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="16" x="352" y="304" text="Training Course/Workshop Title" measuredWidth="181" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VScrollbar" id="25" x="1308" y="205" height="529" measuredWidth="17" measuredHeight="529"/>
+  <widgets xsi:type="model:Icon" id="26" x="290" y="174" measuredWidth="24" measuredHeight="24" icon="save (medium)"/>
+  <widgets xsi:type="model:Tabs" id="28" x="25" y="216" width="258" text="Study" measuredWidth="258" measuredHeight="27" selection="0">
+    <items x="1" y="0" width="51" height="27" text="Study"/>
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="29" x="16" y="281" width="272" measuredWidth="272" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="30" x="64" y="256" text="iShaRe Ref No.:" measuredWidth="92" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="31" x="164" y="256" text="20141023xxx" measuredWidth="69" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="32" x="64" y="296" text="e-CIRB" measuredWidth="45" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="33" x="80" y="318" text="CIRB Ref No.:" measuredWidth="81" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="34" x="164" y="318" text="20141023xxx" measuredWidth="69" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="35" x="64" y="347" text="e-IACUC" measuredWidth="53" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="36" x="80" y="369" text="IACUC Ref No.:" measuredWidth="89" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="37" x="164" y="369" text="20141023xxx" measuredWidth="69" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="38" x="60" y="399" text="Grant" measuredWidth="38" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="39" x="76" y="421" text="Grant Ref No.:" measuredWidth="86" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="40" x="160" y="421" text="20141023xxx" measuredWidth="69" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="45" x="811" y="304" text="Principal Course Facilitator:" measuredWidth="155" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="47" x="811" y="272" text="IACUC Approval Date:" measuredWidth="127" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="49" x="348" y="336" text="Training/Workshop Commencement Date" measuredWidth="238" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:DateField" id="50" x="615" y="336" width="136" text="  /  /  " measuredWidth="136" measuredHeight="23"/>
+  <widgets xsi:type="model:Label" id="54" x="811" y="336" text="Training/Workshop End Date:" measuredWidth="168" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:DateField" id="55" x="992" y="336" width="136" text="  /  /  " measuredWidth="136" measuredHeight="23"/>
+  <widgets xsi:type="model:Label" id="56" x="615" y="272" text="20141023xxx" measuredWidth="69" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="57" x="615" y="304" text="this is a demo training couse" measuredWidth="157" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="58" x="992" y="304" text="this is a demo facilitator" measuredWidth="132" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="59" x="992" y="272" text="23-Oct-2014" measuredWidth="71" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="60" x="348" y="377" width="292" text="REPORT BY PRINCIPAL COURSE FACILITATOR" measuredWidth="292" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="66" x="348" y="543" text="Give a brief summary of the Training/Workshop outcome." measuredWidth="327" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="67" x="348" y="568" width="752" height="120" text="please elaborate" measuredWidth="752" measuredHeight="120">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:DateField" id="71" x="615" y="377" width="136" text="  /  /  " measuredWidth="136" measuredHeight="23"/>
+  <widgets xsi:type="model:Table" id="72" x="348" y="443" width="406" height="73" text="Discription,Please Complete&#xD;&#xA;Number of participants:,&#xD;&#xA;Name(s) of Trainer(s):," measuredWidth="406" measuredHeight="73" alternative="#eeeeee">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

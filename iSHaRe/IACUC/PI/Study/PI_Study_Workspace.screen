@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="11" locked="true" measuredWidth="1347" measuredHeight="735" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../Frame/Frame_With_Nagivator.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="5" x="15" y="216" width="250" measuredWidth="250" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="6" x="40" y="191" text="iShaRe Ref No.:" measuredWidth="92" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="140" y="191" text="20141023xxx" measuredWidth="69" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="8" x="40" y="231" text="e-CIRB" measuredWidth="45" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="9" x="56" y="253" text="CIRB Ref No.:" measuredWidth="81" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="12" x="140" y="253" text="20141023xxx" measuredWidth="69" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="13" x="40" y="282" text="e-IACUC" measuredWidth="53" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="14" x="56" y="304" text="IACUC Ref No.:" measuredWidth="89" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="15" x="140" y="304" text="20141023xxx" measuredWidth="69" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="16" x="36" y="334" text="Grant" measuredWidth="38" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="17" x="52" y="356" text="Grant Ref No.:" measuredWidth="86" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="18" x="136" y="356" text="20141023xxx" measuredWidth="69" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="20" x="112" y="122" width="85" height="27" measuredWidth="85" measuredHeight="27" border="solid-rounded"/>
+  <widgets xsi:type="model:Label" id="19" x="112" y="124" width="88" text="Study" measuredWidth="88" measuredHeight="23" textAlignment="Center">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="22" x="285" y="215" width="1040" measuredWidth="1040" measuredHeight="100"/>
+  <widgets xsi:type="model:Label" id="23" x="297" y="231" text="IACUC Ref No.:" measuredWidth="89" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="24" x="390" y="231" text="20141023xxx" measuredWidth="69" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="26" x="624" y="231" text="Version No : " measuredWidth="75" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="29" x="698" y="231" width="17" text="1" measuredWidth="17" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="30" x="880" y="231" text="Version Date :" measuredWidth="83" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="31" x="984" y="231" text="23-OCT-2014" measuredWidth="76" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="32" x="295" y="260" text="Protocol No. : " measuredWidth="84" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="33" x="390" y="260" text="20131023-xxxx" measuredWidth="79" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="34" x="624" y="253" text="PI : " measuredWidth="26" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="35" x="698" y="253" text="Dr. Xiaobo" measuredWidth="61" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="36" x="880" y="253" text="Approval Date :" measuredWidth="92" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="37" x="984" y="253" text="23-OCT-2014" measuredWidth="76" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="38" x="880" y="282" text="Valid Till Date :" measuredWidth="87" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="39" x="984" y="282" text="22-OCT-2016" measuredWidth="76" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="40" x="295" y="282" text="Protocol Title : " measuredWidth="90" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="41" x="390" y="282" text="this is a demostration title" measuredWidth="142" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="42" x="285" y="183" text="Study Workspace" measuredWidth="146" measuredHeight="31">
+    <font size="17px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="43" x="304" y="368" text="IACUC Application" measuredWidth="129" measuredHeight="24" textAlignment="Center" foreground="#0000ff" state="disabled" icon="assets/gl-plus (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="44" x="477" y="368" text="Training Workshop Project" measuredWidth="171" measuredHeight="24" textAlignment="Center" foreground="#0000ff" icon="assets/gl-plus (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="45" x="689" y="368" text="Annual Project Update" measuredWidth="149" measuredHeight="24" textAlignment="Center" foreground="#0000ff" icon="assets/gl-plus (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="46" x="889" y="368" text="Final Project Report" measuredWidth="133" measuredHeight="24" textAlignment="Center" foreground="#0000ff" icon="assets/gl-plus (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="47" x="285" y="326" text="Action" measuredWidth="84" measuredHeight="32" textAlignment="Center" icon="assets/gl-chevron-down (large)">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="48" x="285" y="416" text="Draft/Pending" measuredWidth="139" measuredHeight="32" textAlignment="Center" icon="assets/gl-chevron-down (large)">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="49" x="283" y="584" text="Document Library" measuredWidth="165" measuredHeight="32" textAlignment="Center" icon="assets/gl-chevron-down (large)">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="50" x="285" y="683" text="Attachment" measuredWidth="122" measuredHeight="32" textAlignment="Center" icon="assets/gl-chevron-down (large)">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Table" id="51" x="328" y="447" width="694" text="Document,Status,Version No.,Version Date, Action&#xD;&#xA;Annual Project Update, Pending,2,23-Oct-2014,[View] [Edit]&#xD;&#xA;Amendment, Pending,4,23-Oct-2014,[View] [Edit]&#xD;&#xA;Annual Project Update, Pending,1,23-Oct-2014,[View] [Edit]&#xD;&#xA;Annual Project Update, Pending,1,23-Oct-2014,[View] [Edit]&#xD;&#xA;Training Workshop Project, Pending,1,23-Oct-2014,[View] [Edit]" measuredWidth="694" measuredHeight="130" alternative="#eeeeee">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Table" id="52" x="328" y="615" width="694" text="Document,Status,Version No.,Version Date, Action&#xD;&#xA;IACUC Application, Approved,1,23-Oct-2014,[View]&#xD;&#xA;Amendment, Approved,3,23-Oct-2014,[View]&#xD;&#xA;" measuredWidth="694" measuredHeight="67" alternative="#eeeeee">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
