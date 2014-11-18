@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="69" x="-40" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../IACUC/Frame/Frame_iShaRe.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Breadcrumbs" id="2" x="-10" y="178" text="Changes" measuredWidth="50" measuredHeight="23">
+    <font bold="true"/>
+    <items x="0" y="0" width="47" height="23" text="Changes"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="3" x="-20" y="204" width="1313" measuredWidth="1313" measuredHeight="6"/>
+  <widgets xsi:type="model:Icon" id="19" x="-7" y="431" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
+  <widgets xsi:type="model:Label" id="20" x="32" y="436" text="Section C: Conflict of Interest" measuredWidth="170" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="21" x="-7" y="218" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
+  <widgets xsi:type="model:Label" id="22" x="32" y="222" text="Section B : Study Sites, Study Team &amp; Submission Board" measuredWidth="315" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="53" x="32" y="672" measuredWidth="6" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="76" x="1153" y="173" measuredWidth="125" measuredHeight="33" src="../../assets/Sec_Rev_Change_Summary_2_image(3).png"/>
+  <widgets xsi:type="model:Text" id="90" x="29" y="249" width="816" height="20" text="B2. Study Team Members " measuredWidth="816" measuredHeight="20">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="91" x="50" y="273" text="(i) Add study team member" measuredWidth="158" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="92" x="34" y="393" width="1226" height="24" measuredWidth="1226" measuredHeight="24" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Panel" id="93" x="36" y="345" width="1225" height="26" measuredWidth="1225" measuredHeight="26" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:HLine" id="94" x="36" y="355" width="1224" measuredWidth="1224" measuredHeight="6"/>
+  <widgets xsi:type="model:Panel" id="95" x="951" y="372" width="67" height="21" measuredWidth="67" measuredHeight="21" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:HLine" id="96" x="951" y="380" width="66" measuredWidth="66" measuredHeight="6"/>
+  <widgets xsi:type="model:Panel" id="97" x="1017" y="372" width="61" height="21" measuredWidth="61" measuredHeight="21" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Panel" id="98" x="1083" y="372" width="24" height="21" measuredWidth="24" measuredHeight="21" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:Panel" id="99" x="1107" y="372" width="33" height="21" measuredWidth="33" measuredHeight="21" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Table" id="100" x="35" y="301" width="1226" text="Name,Study Role,Department,Institution,Designation,CV,CITI,SGGCP,Involve in Informed Consent Process &#xD;&#xA;Dr. KKH-PI01, PI,Tuberculosis Control Unit,KK Women's and Children's Hospital (KKH),,complete,complete,complete,Yes&#xD;&#xA;Dr. KKH-PI02, PI,Tuberculosis Control Unit,KK Women's and Children's Hospital (KKH),,complete,complete,complete,Yes&#xD;&#xA;Ms. CGH CGH-PI01 ,Study Team Member, Tuberculosis Control Unit, Changi General Hospital (CGH) ,, complete,Incomplete,IncompleteComplete, NoYes&#xD;&#xA;Ms. KKH KKH-DR02,DR Co-I, Tuberculosis Control Unit ,KK Women's and Children's Hospital (KKH) ,, Incomplete,Incomplete,Incomplete,No   " measuredWidth="1226" measuredHeight="119" alpha="0" horizontalLines="true" alternative="#eeeeee">
+    <font size="13px"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="101" x="1083" y="380" width="24" measuredWidth="24" measuredHeight="6"/>
+  <widgets xsi:type="model:Text" id="102" x="35" y="462" width="1206" height="18" text="Does the Principal Investigator or any study team member have any potential conflict of interest? The Declaration is also for the immediate family members of the Principal Investigator and Study Team Member(s) listed below " measuredWidth="1206" measuredHeight="18">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="103" x="52" y="488" width="465" height="18" text="KKH KKH-PI01  PI Tuberculosis Control Unit KK Women's and Children's Hospital (KKH) " measuredWidth="465" measuredHeight="18">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="104" x="70" y="512" width="24" height="23" measuredWidth="24" measuredHeight="23" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:Label" id="105" x="70" y="512" text="Yes" measuredWidth="24" measuredHeight="23" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="106" x="74" y="521" width="20" measuredWidth="20" measuredHeight="6"/>
+  <widgets xsi:type="model:Panel" id="107" x="102" y="512" width="24" height="23" measuredWidth="24" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="108" x="102" y="512" text="No" measuredWidth="22" measuredHeight="23" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="111" x="52" y="544" width="465" height="18" measuredWidth="465" measuredHeight="18" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:Text" id="110" x="52" y="544" width="465" height="18" text="KKH KKH-PI01  PI Tuberculosis Control Unit KK Women's and Children's Hospital (KKH) " measuredWidth="465" measuredHeight="18">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="112" x="52" y="550" width="465" measuredWidth="465" measuredHeight="6"/>
+  <widgets xsi:type="model:Panel" id="114" x="50" y="568" width="607" height="17" measuredWidth="607" measuredHeight="17" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="113" x="50" y="568" width="615" height="17" text="Ms. KKH KKH-DR02 DR  Study Team Member Tuberculosis Control Unit KK Women's and Children's Hospital (KKH) " measuredWidth="615" measuredHeight="17">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="115" x="68" y="591" width="24" height="23" measuredWidth="24" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="116" x="68" y="591" text="No" measuredWidth="22" measuredHeight="23" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="118" x="46" y="624" width="461" height="17" measuredWidth="461" measuredHeight="17" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="117" x="50" y="624" width="457" height="17" text="Dr. SGH SGH-PI01  Site-PI Tuberculosis Control Unit Singapore General Hospital (SGH) " measuredWidth="457" measuredHeight="17">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="119" x="68" y="650" width="24" height="23" measuredWidth="24" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="120" x="68" y="650" text="Yes" measuredWidth="24" measuredHeight="23" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="121" x="93" y="680" text="i. Please tick all the applicable boxes. " measuredWidth="201" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="123" x="102" y="702" width="874" height="18" measuredWidth="874" measuredHeight="18" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="122" x="102" y="702" width="1001" height="19" text="[ X ] Financial interests (e.g. stocks, stock options or other ownership interests) in the assets or liabilities of any organisation that may benefit from the research activity. " measuredWidth="1001" measuredHeight="19">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="544"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>
