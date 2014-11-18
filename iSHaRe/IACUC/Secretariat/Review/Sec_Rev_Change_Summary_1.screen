@@ -9,13 +9,13 @@
     <items x="0" y="0" width="43" height="23" text="Review"/>
     <items x="63" y="0" width="98" height="23" text="Change Summary"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="8" x="24" y="216" text="Protocol Title:" measuredWidth="84" measuredHeight="23">
+  <widgets xsi:type="model:Label" id="8" x="24" y="216" text="CIRB Ref. No.:" measuredWidth="84" measuredHeight="23">
     <font bold="true"/>
   </widgets>
   <widgets xsi:type="model:Label" id="9" x="24" y="238" text="Protocol Number:" measuredWidth="105" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="10" x="148" y="216" text="this is de demostration title" measuredWidth="149" measuredHeight="23">
+  <widgets xsi:type="model:Label" id="10" x="148" y="216" measuredWidth="6" measuredHeight="23">
     <font/>
   </widgets>
   <widgets xsi:type="model:Label" id="11" x="148" y="238" text="2014102201/f1" measuredWidth="81" measuredHeight="23">
@@ -93,6 +93,18 @@
     </overrides>
   </widgets>
   <widgets xsi:type="model:Image" id="75" x="1171" y="250" measuredWidth="125" measuredHeight="33" src="../../../assets/Sec_Rev_Change_Summary_2_image(3).png"/>
+  <widgets xsi:type="model:Label" id="76" x="363" y="216" text="Creation Date" measuredWidth="83" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="77" x="464" y="216" text="11 Oct 2014" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="78" x="656" y="216" text="Creation Date" measuredWidth="83" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="79" x="757" y="216" text="11 Oct 2014" measuredWidth="67" measuredHeight="23">
+    <font/>
+  </widgets>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../IACUC/Frame/Frame_iShaRe_PI.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Breadcrumbs" id="2" x="30" y="178" text="Changes" measuredWidth="50" measuredHeight="23">
+    <font bold="true"/>
+    <items x="0" y="0" width="47" height="23" text="Changes"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="3" x="20" y="204" width="1313" measuredWidth="1313" measuredHeight="6"/>
+  <widgets xsi:type="model:Image" id="4" x="1197" y="171" measuredWidth="125" measuredHeight="33" src="../../assets/Sec_Rev_Change_Summary_2_image(3).png"/>
+  <widgets xsi:type="model:Icon" id="5" x="33" y="215" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
+  <widgets xsi:type="model:Label" id="6" x="72" y="224" text="Section D: Nature of Research" measuredWidth="174" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="7" x="33" y="317" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Panel" id="10" x="64" y="284" width="392" height="23" measuredWidth="392" measuredHeight="23" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:Panel" id="14" x="464" y="284" width="177" height="23" measuredWidth="177" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="12" x="64" y="288" text="Clinical Trials (which includes Drug. Device and Surgical-Procedure Trials) " measuredWidth="392" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="11" x="64" y="293" width="385" measuredWidth="385" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="9" x="465" y="284" width="174" text="Questionnaire/Survey/Interviews" measuredWidth="174" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="29" x="64" y="321" width="249" height="23" measuredWidth="249" measuredHeight="23" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:Label" id="8" x="72" y="321" text="Section G: Research Details-Clinical Trials" measuredWidth="232" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="30" x="64" y="330" width="249" measuredWidth="249" measuredHeight="6"/>
+  <widgets xsi:type="model:Text" id="31" x="64" y="256" text="D1. Please select one category that best describes your research activities. " measuredWidth="389" measuredHeight="15">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

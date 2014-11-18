@@ -7,7 +7,7 @@
   <widgets xsi:type="model:Panel" id="3" x="20" y="122" width="1315" height="47" measuredWidth="1315" measuredHeight="47" background="#cc0000" foreground="#999999" border="none"/>
   <widgets xsi:type="model:HLine" id="4" x="20" y="118" width="1207" locked="true" measuredWidth="1207" measuredHeight="6" foreground="#cccccc"/>
   <widgets xsi:type="model:Image" id="5" x="18" y="70" width="75" height="44" locked="true" measuredWidth="75" measuredHeight="44" src="../../Admin/assets/Eddom/Logo.jpg"/>
-  <widgets xsi:type="model:Label" id="6" x="109" y="76" width="292" text="iSHaRe - IACUC" locked="true" measuredWidth="292" measuredHeight="36" foreground="#ff0000">
+  <widgets xsi:type="model:Label" id="6" x="109" y="76" width="292" text="iSHaRe - eCIRB" locked="true" measuredWidth="292" measuredHeight="36" foreground="#ff0000">
     <font size="20px" bold="true"/>
   </widgets>
   <widgets xsi:type="model:Master" id="7" x="30" y="132" locked="true" measuredWidth="78" measuredHeight="28">

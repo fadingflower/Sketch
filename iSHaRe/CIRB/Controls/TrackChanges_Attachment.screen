@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="68" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../IACUC/Frame/Frame_iShaRe.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Breadcrumbs" id="2" x="30" y="178" text="Changes" measuredWidth="50" measuredHeight="23">
+    <font bold="true"/>
+    <items x="0" y="0" width="47" height="23" text="Changes"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="3" x="20" y="204" width="1313" measuredWidth="1313" measuredHeight="6"/>
+  <widgets xsi:type="model:Icon" id="21" x="33" y="220" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
+  <widgets xsi:type="model:Label" id="22" x="72" y="224" text="Other Attachments" measuredWidth="114" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="53" x="72" y="672" measuredWidth="6" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="58" x="80" y="344" width="784" height="22" measuredWidth="784" measuredHeight="22" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Panel" id="59" x="81" y="297" width="783" height="26" measuredWidth="783" measuredHeight="26" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:Table" id="57" x="80" y="251" width="784" height="117" text="File Name,Description, Version Number, Version Date&#xD;&#xA;sggcp2, sggcp2.pdf  ,,-   &#xD;&#xA;cv2, cv2.pdf  ,,-&#xD;&#xA;cv1, cv1.pdf  ,,-&#xD;&#xA;citi2 ,citi2.pdf ,,-" measuredWidth="784" measuredHeight="117" alpha="0" horizontalLines="true" alternative="#eeeeee">
+    <font size="13px"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="70" x="81" y="307" width="782" measuredWidth="782" measuredHeight="6"/>
+  <hRuler/>
+  <vRuler>
+    <guides position="544"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

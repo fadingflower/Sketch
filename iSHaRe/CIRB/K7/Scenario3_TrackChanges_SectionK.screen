@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../IACUC/Frame/Frame_iShaRe_PI.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Breadcrumbs" id="2" x="30" y="178" text="Changes" measuredWidth="50" measuredHeight="23">
+    <font bold="true"/>
+    <items x="0" y="0" width="47" height="23" text="Changes"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="3" x="20" y="204" width="1313" measuredWidth="1313" measuredHeight="6"/>
+  <widgets xsi:type="model:Image" id="4" x="1197" y="171" measuredWidth="125" measuredHeight="33" src="../../assets/Sec_Rev_Change_Summary_2_image(3).png"/>
+  <widgets xsi:type="model:Icon" id="5" x="33" y="215" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
+  <widgets xsi:type="model:Label" id="6" x="72" y="219" text="Section K: Research Participant Characteristics" measuredWidth="263" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="7" x="30" y="296" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Panel" id="10" x="87" y="274" width="17" height="23" measuredWidth="17" measuredHeight="23" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:Panel" id="14" x="110" y="274" width="23" height="23" measuredWidth="23" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="12" x="87" y="278" text="Yes" measuredWidth="19" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="11" x="88" y="282" width="14" measuredWidth="14" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="9" x="111" y="274" width="22" text="No" measuredWidth="22" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="29" x="61" y="304" width="420" height="23" measuredWidth="420" measuredHeight="23" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:Label" id="8" x="64" y="304" text="Section L: Research Participants – Pregnant Women, Fetuses &amp; Neonates" measuredWidth="409" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="31" x="64" y="256" text="K7. Does the study involve any vulnerable research participants? Please select 'Yes' to view the options and select the applicable population(s). " measuredWidth="749" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="44" x="29" y="344" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Panel" id="45" x="60" y="352" width="255" height="23" measuredWidth="255" measuredHeight="23" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:Label" id="46" x="63" y="352" text="Section M: Research Participants – Children" measuredWidth="245" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="47" x="26" y="394" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Panel" id="48" x="57" y="402" width="251" height="23" measuredWidth="251" measuredHeight="23" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:Label" id="49" x="57" y="402" text="Section N: Research Participants - Prisoners" measuredWidth="247" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="50" x="27" y="445" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Panel" id="51" x="58" y="453" width="359" height="23" measuredWidth="359" measuredHeight="23" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:Label" id="52" x="58" y="453" text="Section O: Research Participant – Cognitively Impaired Persons" measuredWidth="353" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="53" x="63" y="313" width="410" measuredWidth="410" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="54" x="60" y="361" width="248" measuredWidth="248" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="55" x="60" y="411" width="244" measuredWidth="244" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="56" x="57" y="462" width="354" measuredWidth="354" measuredHeight="6"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
