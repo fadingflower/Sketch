@@ -66,6 +66,7 @@
   <widgets xsi:type="model:Label" id="33" x="133" y="382" text="this is a test title" measuredWidth="90" measuredHeight="23">
     <font/>
   </widgets>
+  <widgets xsi:type="model:Icon" id="34" x="113" y="174" width="32" height="32" measuredWidth="32" measuredHeight="32" icon="assets/gl-print (large)" link="Scenario1_TrackChanges_Print.screen"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>
