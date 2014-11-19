@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
   <widgets xsi:type="model:Image" id="1" width="1352" height="720" measuredWidth="1352" measuredHeight="720" src="../../assets/Scenario2_Before_image.png"/>
+  <widgets xsi:type="model:Panel" id="2" x="312" y="432" width="232" height="32" measuredWidth="232" measuredHeight="32" alpha="0" foreground="#ffffff" link="Scenario2_After.screen"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>

@@ -13,7 +13,7 @@
   <widgets xsi:type="model:Label" id="6" x="72" y="224" text="Section D: Nature of Research" measuredWidth="174" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Icon" id="7" x="33" y="358" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
+  <widgets xsi:type="model:Icon" id="7" x="33" y="416" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
   <widgets xsi:type="model:Panel" id="10" x="72" y="280" width="174" height="23" measuredWidth="174" measuredHeight="23" background="#ff0000" foreground="#ff0000"/>
   <widgets xsi:type="model:Label" id="9" x="72" y="280" width="174" text="Questionnaire/Survey/Interviews " measuredWidth="174" measuredHeight="23">
     <font/>
@@ -26,36 +26,44 @@
   <widgets xsi:type="model:Label" id="15" x="72" y="306" text="What does the study involve?" measuredWidth="160" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Panel" id="17" x="92" y="328" width="41" height="23" measuredWidth="41" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
-  <widgets xsi:type="model:Label" id="16" x="92" y="328" text="Device" measuredWidth="41" measuredHeight="23">
+  <widgets xsi:type="model:Panel" id="17" x="92" y="328" width="86" height="23" measuredWidth="86" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="16" x="92" y="328" text="Drug/Biologic" measuredWidth="80" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Panel" id="19" x="72" y="358" width="232" height="27" measuredWidth="232" measuredHeight="27" background="#ffff00" foreground="#ffff00"/>
-  <widgets xsi:type="model:Label" id="8" x="72" y="362" text="Section G: Research Details-Clinical Trials" measuredWidth="232" measuredHeight="23">
+  <widgets xsi:type="model:Panel" id="19" x="72" y="416" width="232" height="27" measuredWidth="232" measuredHeight="27" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="8" x="72" y="420" text="Section G: Research Details-Clinical Trials" measuredWidth="232" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Text" id="20" x="72" y="394" width="761" height="49" text="G1. Describe the study protocol(s) to be used. Include information of the study drug / device / surgical procedures that will be used in the trial. If the study involves the use of study drug / device, describe how you plan to manage the receipt, handling, storage, utilization, and disposal of the study drug/device." measuredWidth="761" measuredHeight="49">
+  <widgets xsi:type="model:Text" id="20" x="72" y="452" width="761" height="49" text="G1. Describe the study protocol(s) to be used. Include information of the study drug / device / surgical procedures that will be used in the trial. If the study involves the use of study drug / device, describe how you plan to manage the receipt, handling, storage, utilization, and disposal of the study drug/device." measuredWidth="761" measuredHeight="49">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Panel" id="22" x="74" y="442" width="111" height="33" measuredWidth="111" measuredHeight="33" background="#ffff00" foreground="#ffff00"/>
-  <widgets xsi:type="model:Text" id="21" x="82" y="450" text="​this is a demo text&#xD;&#xA;" measuredWidth="96" measuredHeight="15">
+  <widgets xsi:type="model:Panel" id="22" x="74" y="500" width="111" height="33" measuredWidth="111" measuredHeight="33" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="21" x="82" y="508" text="​this is a demo text&#xD;&#xA;" measuredWidth="96" measuredHeight="15">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Text" id="23" x="72" y="490" width="568" height="17" text="G2. Please attach the Investigator's Brochure or local product information sheet/leaflet, as applicable.  " measuredWidth="568" measuredHeight="17">
+  <widgets xsi:type="model:Text" id="23" x="72" y="548" width="568" height="17" text="G2. Please attach the Investigator's Brochure or local product information sheet/leaflet, as applicable.  " measuredWidth="568" measuredHeight="17">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Panel" id="25" x="74" y="538" width="807" height="26" measuredWidth="807" measuredHeight="26" background="#ffff00" foreground="#ffff00"/>
-  <widgets xsi:type="model:Table" id="24" x="74" y="514" width="807" text="Name,Document Name,Version No.,Version Date&#xD;&#xA;sggcp2,sggcp2.pdf,1,17 Nov 2014" measuredWidth="807" measuredHeight="50" alpha="0" horizontalLines="true" alternative="#eeeeee">
+  <widgets xsi:type="model:Panel" id="25" x="74" y="596" width="807" height="26" measuredWidth="807" measuredHeight="26" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Table" id="24" x="74" y="572" width="807" text="Name,Document Name,Version No.,Version Date&#xD;&#xA;sggcp2,sggcp2.pdf,1,17 Nov 2014" measuredWidth="807" measuredHeight="50" alpha="0" horizontalLines="true" alternative="#eeeeee">
     <font size="13px"/>
   </widgets>
-  <widgets xsi:type="model:Text" id="26" x="72" y="580" width="689" height="17" text="G3. Describe standard/alternative treatments used at your institution for this condition. " measuredWidth="689" measuredHeight="17">
+  <widgets xsi:type="model:Text" id="26" x="72" y="638" width="689" height="17" text="G3. Describe standard/alternative treatments used at your institution for this condition. " measuredWidth="689" measuredHeight="17">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Panel" id="27" x="74" y="596" width="111" height="33" measuredWidth="111" measuredHeight="33" background="#ffff00" foreground="#ffff00"/>
-  <widgets xsi:type="model:Text" id="28" x="82" y="604" text="​this is a demo text&#xD;&#xA;" measuredWidth="96" measuredHeight="15">
+  <widgets xsi:type="model:Panel" id="27" x="74" y="654" width="111" height="33" measuredWidth="111" measuredHeight="33" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="28" x="82" y="662" text="​this is a demo text&#xD;&#xA;" measuredWidth="96" measuredHeight="15">
     <font/>
   </widgets>
   <widgets xsi:type="model:Text" id="29" x="64" y="256" text="D1. Please select one category that best describes your research activities. " measuredWidth="389" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="30" x="20" y="171" width="64" height="32" measuredWidth="64" measuredHeight="32" alpha="0" foreground="#ffffff" link="Scenario1_After1.screen"/>
+  <widgets xsi:type="model:Label" id="31" x="107" y="360" text="Please incdicate the Phase of the Trail" measuredWidth="204" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="32" x="133" y="382" width="109" height="23" measuredWidth="109" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="33" x="133" y="382" text="this is a test title" measuredWidth="90" measuredHeight="23">
     <font/>
   </widgets>
   <hRuler/>

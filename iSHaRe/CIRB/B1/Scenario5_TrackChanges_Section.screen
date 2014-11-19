@@ -60,6 +60,7 @@
   <widgets xsi:type="model:Table" id="77" x="48" y="448" width="1016" height="145" text="Study Site,Total Recruitment Target,Males,Females,Children&#xD;&#xA;Changi General Hospital (CGH),10,3,2,5&#xD;&#xA;KK Women's and Children's Hospital (KKH),20 15,10 5,10,0&#xD;&#xA;Singapore General Hospital (SGH),30,10,20,0&#xD;&#xA;Jurong Health Services at Alexandra Hospital (JHS),5,0,0,5" measuredWidth="1016" measuredHeight="145" alpha="0" alternative="#eeeeee">
     <font size="15px"/>
   </widgets>
+  <widgets xsi:type="model:Panel" id="87" x="-10" y="178" width="106" height="27" measuredWidth="106" measuredHeight="27" alpha="0" foreground="#ffffff" link="Scenario5_After1.screen"/>
   <hRuler/>
   <vRuler>
     <guides position="544"/>

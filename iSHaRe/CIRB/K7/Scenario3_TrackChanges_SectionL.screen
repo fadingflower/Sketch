@@ -81,6 +81,8 @@
   <widgets xsi:type="model:Text" id="75" x="77" y="658" width="820" height="17" text="[   ] I The Informed Consent document(s) will provide information regarding the reasonably foreseeable impact of the research on the foetus or neonate. " measuredWidth="820" measuredHeight="17">
     <font/>
   </widgets>
+  <widgets xsi:type="model:Panel" id="82" x="30" y="180" width="51" height="20" measuredWidth="51" measuredHeight="20" alpha="0" foreground="#ffffff" link="Scenario3_After1.screen"/>
+  <widgets xsi:type="model:Panel" id="83" x="70" y="214" width="265" height="33" measuredWidth="265" measuredHeight="33" alpha="0" foreground="#ffffff" link="Scenario3_TrackChanges_SectionK.screen"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>

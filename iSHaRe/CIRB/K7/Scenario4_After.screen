@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Image" id="1" x="-8" y="-8" width="1353" height="721" measuredWidth="1353" measuredHeight="721" src="../../assets/Scenario4_After_image.png"/>
+  <widgets xsi:type="model:Image" id="1" x="-8" y="-8" width="1353" height="721" locked="true" measuredWidth="1353" measuredHeight="721" src="../../assets/Scenario4_After_image.png"/>
+  <widgets xsi:type="model:Panel" id="2" x="317" y="169" width="28" height="32" measuredWidth="28" measuredHeight="32" alpha="0" foreground="#ffffff" link="Scenario4_TrackChanges_SectionK.screen"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>

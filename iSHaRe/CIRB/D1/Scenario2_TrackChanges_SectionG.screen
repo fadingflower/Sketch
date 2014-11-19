@@ -31,6 +31,7 @@
   <widgets xsi:type="model:Text" id="31" x="64" y="256" text="D1. Please select one category that best describes your research activities. " measuredWidth="389" measuredHeight="15">
     <font/>
   </widgets>
+  <widgets xsi:type="model:Panel" id="32" x="30" y="178" width="63" height="20" measuredWidth="63" measuredHeight="20" alpha="0" foreground="#ffffff" link="Scenario2_After.screen"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>

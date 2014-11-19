@@ -65,6 +65,8 @@
   <widgets xsi:type="model:Label" id="52" x="64" y="541" text="Section O: Research Participant – Cognitively Impaired Persons" measuredWidth="353" measuredHeight="23">
     <font bold="true"/>
   </widgets>
+  <widgets xsi:type="model:Panel" id="53" x="30" y="180" width="51" height="20" measuredWidth="51" measuredHeight="20" alpha="0" foreground="#ffffff" link="Scenario3_After1.screen"/>
+  <widgets xsi:type="model:Panel" id="54" x="60" y="392" width="421" height="23" measuredWidth="421" measuredHeight="23" alpha="0" foreground="#ffffff" link="Scenario3_TrackChanges_SectionL.screen"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>

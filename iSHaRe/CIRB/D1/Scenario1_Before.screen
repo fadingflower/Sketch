@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Image" id="3" y="-16" width="1360" height="712" measuredWidth="1360" measuredHeight="712" src="../../assets/Scenario1_Before_image(2).png"/>
-  <hRuler/>
+  <widgets xsi:type="model:Image" id="3" x="-16" y="-24" width="1360" height="712" measuredWidth="1360" measuredHeight="712" src="../../assets/Scenario1_Before_image(2).png"/>
+  <widgets xsi:type="model:Panel" id="7" x="296" y="307" width="440" height="24" measuredWidth="440" measuredHeight="24" alpha="0" foreground="#ffffff" link="Scenario1_After1.screen"/>
+  <hRuler>
+    <guides position="23"/>
+  </hRuler>
   <vRuler/>
   <font size="12px"/>
 </model:Screen>

@@ -81,6 +81,7 @@
   <widgets xsi:type="model:Text" id="122" x="102" y="702" width="1001" height="19" text="[ X ] Financial interests (e.g. stocks, stock options or other ownership interests) in the assets or liabilities of any organisation that may benefit from the research activity. " measuredWidth="1001" measuredHeight="19">
     <font/>
   </widgets>
+  <widgets xsi:type="model:Panel" id="124" x="-10" y="178" width="44" height="26" measuredWidth="44" measuredHeight="26" alpha="0" foreground="#ffffff" link="Scenario6_After1.screen"/>
   <hRuler/>
   <vRuler>
     <guides position="544"/>
