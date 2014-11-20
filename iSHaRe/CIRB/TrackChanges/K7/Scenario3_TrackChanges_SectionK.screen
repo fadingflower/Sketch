@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../../IACUC/Frame/Frame_iShaRe_PI.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Breadcrumbs" id="2" x="30" y="178" text="Changes" measuredWidth="50" measuredHeight="23">
+    <font bold="true"/>
+    <items x="0" y="0" width="47" height="23" text="Changes"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="3" x="20" y="204" width="1313" measuredWidth="1313" measuredHeight="6"/>
+  <widgets xsi:type="model:Image" id="4" x="1197" y="171" measuredWidth="125" measuredHeight="33" src="../../../assets/Sec_Rev_Change_Summary_2_image(3).png"/>
+  <widgets xsi:type="model:Icon" id="5" x="33" y="215" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
+  <widgets xsi:type="model:Label" id="6" x="72" y="219" text="Section K: Research Participant Characteristics" measuredWidth="263" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="7" x="33" y="384" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Panel" id="10" x="87" y="274" width="17" height="23" measuredWidth="17" measuredHeight="23" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:Panel" id="14" x="110" y="274" width="23" height="23" measuredWidth="23" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="12" x="87" y="278" text="No" measuredWidth="17" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="11" x="87" y="283" width="14" measuredWidth="14" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="9" x="111" y="274" width="22" text="Yes" measuredWidth="22" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="29" x="64" y="392" width="417" height="23" measuredWidth="417" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="8" x="67" y="392" text="Section L: Research Participants – Pregnant Women, Fetuses &amp; Neonates" measuredWidth="409" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="31" x="64" y="256" text="K7. Does the study involve any vulnerable research participants? Please select 'Yes' to view the options and select the applicable population(s). " measuredWidth="749" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="39" x="103" y="303" width="463" height="17" measuredWidth="463" measuredHeight="17" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="32" x="104" y="303" width="462" height="17" text="[ X ]  If Pregnant Women, Foetuses and Neonates is selected, please respond to Section L. " measuredWidth="462" measuredHeight="17">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="40" x="104" y="318" width="537" height="17" measuredWidth="537" measuredHeight="17" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="34" x="103" y="319" width="580" height="16" text="[ X ]  If Children (person who are less than 21 years of age) is selected, please to respond to Section M. " measuredWidth="580" measuredHeight="16">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="41" x="103" y="334" width="287" height="17" measuredWidth="287" measuredHeight="17" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="33" x="103" y="334" width="287" height="17" text="[ X ]  If Prisoners is selected, please respond to Section N. " measuredWidth="287" measuredHeight="17">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="42" x="103" y="350" width="410" height="17" measuredWidth="410" measuredHeight="17" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="35" x="103" y="351" text="[ X ] If a Cognitively Impaired person is selected, please respond to Section O. " measuredWidth="409" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="43" x="104" y="366" width="65" height="17" measuredWidth="65" measuredHeight="17" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="37" x="104" y="367" text="[   ] Others" measuredWidth="56" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="44" x="32" y="432" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Panel" id="45" x="63" y="440" width="252" height="23" measuredWidth="252" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="46" x="66" y="440" text="Section M: Research Participants – Children" measuredWidth="245" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="47" x="29" y="482" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Panel" id="48" x="60" y="490" width="252" height="23" measuredWidth="252" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="49" x="63" y="490" text="Section N: Research Participants - Prisoners" measuredWidth="247" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="50" x="30" y="533" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Panel" id="51" x="61" y="541" width="356" height="23" measuredWidth="356" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="52" x="64" y="541" text="Section O: Research Participant – Cognitively Impaired Persons" measuredWidth="353" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="53" x="30" y="180" width="51" height="20" measuredWidth="51" measuredHeight="20" alpha="0" foreground="#ffffff" link="Scenario3_After1.screen"/>
+  <widgets xsi:type="model:Panel" id="54" x="60" y="392" width="421" height="23" measuredWidth="421" measuredHeight="23" alpha="0" foreground="#ffffff" link="Scenario3_TrackChanges_SectionL.screen"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

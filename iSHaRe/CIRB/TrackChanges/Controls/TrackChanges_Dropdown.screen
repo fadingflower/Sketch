@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="55" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../../IACUC/Frame/Frame_iShaRe.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Breadcrumbs" id="2" x="30" y="178" text="Changes" measuredWidth="50" measuredHeight="23">
+    <font bold="true"/>
+    <items x="0" y="0" width="47" height="23" text="Changes"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="3" x="20" y="204" width="1313" measuredWidth="1313" measuredHeight="6"/>
+  <widgets xsi:type="model:Icon" id="21" x="33" y="220" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
+  <widgets xsi:type="model:Label" id="22" x="72" y="224" text="Section E: Study Funding Information" measuredWidth="212" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="24" x="72" y="255" width="504" height="24" text="E1. Please give information regarding the study's funding source or sponsor information. " measuredWidth="504" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="25" x="93" y="275" text="* Grant" measuredWidth="61" measuredHeight="15">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="26" x="122" y="294" text="i. Name of grant agency: " measuredWidth="144" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="29" x="141" y="317" width="67" height="32" measuredWidth="67" measuredHeight="32" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:HLine" id="31" x="145" y="331" width="56" measuredWidth="56" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="30" x="145" y="324" width="57" text="Duke-NUS" measuredWidth="57" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="32" x="218" y="318" width="109" height="32" measuredWidth="109" measuredHeight="32" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="34" x="228" y="324" width="100" text="Others - Medisys" measuredWidth="100" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="36" x="122" y="352" text="ii. Grant name: " measuredWidth="90" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="37" x="141" y="374" width="212" height="32" measuredWidth="212" measuredHeight="32" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:HLine" id="38" x="141" y="387" width="212" measuredWidth="212" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="39" x="145" y="380" width="200" text="Khoo Student Research Award (KSRA)" measuredWidth="200" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="40" x="367" y="372" width="99" height="32" measuredWidth="99" measuredHeight="32" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="41" x="377" y="378" text="Dr Joseph Yong" measuredWidth="88" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="42" x="124" y="419" text="iii. Amount:" measuredWidth="69" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="43" x="143" y="441" width="76" height="32" measuredWidth="76" measuredHeight="32" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:HLine" id="44" x="143" y="452" width="77" measuredWidth="77" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="45" x="149" y="446" width="65" text="200,000.00" measuredWidth="65" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="46" x="228" y="442" width="76" height="32" measuredWidth="76" measuredHeight="32" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="47" x="238" y="448" text="150,000.00" measuredWidth="60" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="53" x="72" y="672" measuredWidth="6" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="56" x="1194" y="172" measuredWidth="125" measuredHeight="33" src="../../../assets/Sec_Rev_Change_Summary_2_image(3).png"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

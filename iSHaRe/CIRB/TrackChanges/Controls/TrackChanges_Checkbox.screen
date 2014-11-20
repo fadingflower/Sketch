@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="69" x="-40" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../../IACUC/Frame/Frame_iShaRe.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Breadcrumbs" id="2" x="-10" y="178" text="Changes" measuredWidth="50" measuredHeight="23">
+    <font bold="true"/>
+    <items x="0" y="0" width="47" height="23" text="Changes"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="3" x="-20" y="204" width="1313" measuredWidth="1313" measuredHeight="6"/>
+  <widgets xsi:type="model:Icon" id="19" y="219" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
+  <widgets xsi:type="model:Label" id="20" x="39" y="224" text="Section C: Conflict of Interest" measuredWidth="170" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="76" x="1153" y="173" measuredWidth="125" measuredHeight="33" src="../../../assets/Sec_Rev_Change_Summary_2_image(3).png"/>
+  <widgets xsi:type="model:Text" id="102" x="42" y="250" width="1206" height="18" text="Does the Principal Investigator or any study team member have any potential conflict of interest? The Declaration is also for the immediate family members of the Principal Investigator and Study Team Member(s) listed below " measuredWidth="1206" measuredHeight="18">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="117" x="46" y="289" width="457" height="17" text="Dr. SGH SGH-PI01  Site-PI Tuberculosis Control Unit Singapore General Hospital (SGH) " measuredWidth="457" measuredHeight="17">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="120" x="74" y="306" text="Yes" measuredWidth="24" measuredHeight="23" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="121" x="98" y="325" text="i. Please tick all the applicable boxes. " measuredWidth="201" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="123" x="107" y="347" width="874" height="18" measuredWidth="874" measuredHeight="18" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="122" x="107" y="351" width="1001" height="19" text="[ X ] Financial interests (e.g. stocks, stock options or other ownership interests) in the assets or liabilities of any organisation that may benefit from the research activity. " measuredWidth="1001" measuredHeight="19">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="127" x="107" y="371" width="852" height="24" text="[ X ] Payments (e.g. salary, consultation fees, speaking fees, or honoraria) from any organisation that may benefit from the research activity. " measuredWidth="852" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="130" x="107" y="391" width="741" height="29" measuredWidth="741" measuredHeight="29" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:Text" id="128" x="107" y="394" width="852" height="24" text="[   ] Payments (e.g. salary, consultation fees, speaking fees, or honoraria) from any organisation that may benefit from the research activity. " measuredWidth="852" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="131" x="107" y="400" width="740" measuredWidth="740" measuredHeight="6"/>
+  <widgets xsi:type="model:Text" id="133" x="107" y="455" text="[   ] Others, to specify (financial/non-financial conflict). " measuredWidth="294" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="134" x="107" y="424" width="1000" height="13" measuredWidth="1000" measuredHeight="13" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Panel" id="135" x="107" y="440" width="156" height="16" measuredWidth="156" measuredHeight="16" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="132" x="107" y="424" width="1013" height="32" text="[ X ] The sponsor company supporting this study offers incentives connected with participant recruitment or completion of research study (e.g. finder's fee, recruitment bonuses etc) that will be paid to the research staff. " measuredWidth="1013" measuredHeight="32">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler>
+    <guides position="544"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

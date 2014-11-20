@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Image" id="1" width="1352" height="720" locked="true" measuredWidth="1352" measuredHeight="720" src="../../../assets/Scenario2_After1_image.png"/>
+  <widgets xsi:type="model:Label" id="6" x="1192" y="256" text="Reset" measuredWidth="38" measuredHeight="23" foreground="#3d85c6">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="16" x="317" y="176" width="40" height="32" measuredWidth="40" measuredHeight="32" alpha="0" foreground="#ffffff"/>
+  <widgets xsi:type="model:Icon" id="17" x="421" y="179" measuredWidth="32" measuredHeight="32" icon="assets/gl-list-alt (large)"/>
+  <widgets xsi:type="model:Panel" id="18" y="88" width="1352" height="642" locked="true" measuredWidth="1352" measuredHeight="642" background="#000000" alpha="58"/>
+  <widgets xsi:type="model:Panel" id="19" x="224" y="144" width="784" height="496" measuredWidth="784" measuredHeight="496"/>
+  <widgets xsi:type="model:Master" id="20" x="870" y="602" measuredWidth="57" measuredHeight="28" link="Scenario1_TrackChanges_SectionG.screen">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Buttons.screen#Button%20Primary"/>
+    <overrides>
+      <widgets ref="35" width="57" height="28" text="OK">
+        <font size="12px"/>
+      </widgets>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="21" x="966" y="154" measuredWidth="32" measuredHeight="32" icon="delete (large)"/>
+  <widgets xsi:type="model:Master" id="22" x="934" y="602" measuredWidth="64" measuredHeight="28" link="Scenario1_After1.screen">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Buttons.screen#Button"/>
+    <overrides>
+      <widgets ref="21" height="28" text="Cancel"/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Label" id="23" x="234" y="158" text="Select 2 versions to compare" measuredWidth="167" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="25" x="224" y="184" width="783" measuredWidth="783" measuredHeight="6"/>
+  <widgets xsi:type="model:VScrollbar" id="26" x="981" y="207" height="385" measuredWidth="17" measuredHeight="385"/>
+  <widgets xsi:type="model:Panel" id="27" x="240" y="207" width="741" height="384" measuredWidth="741" measuredHeight="384"/>
+  <widgets xsi:type="model:Table" id="29" x="240" y="207" width="741" height="233" text="Select,Version Name, Version Date&#xD;&#xA;,CIRB Initial Approved Version 1, 10-Aug-2014&#xD;&#xA;,CIRB Amendment Version 1 Snapshot 1, 4-Sep-2014&#xD;&#xA;,CIRB Amendment Version 1 Snapshot 2, 5-Sep-2014&#xD;&#xA;,CIRB Amendment Version 1 Snapshot 3, 7-Sep-2014&#xD;&#xA;,CIRB Amendment Version 1 Snapshot 4, 8-Sep-2014&#xD;&#xA;,CIRB Amendment Approved Version 1, 10-Sep-2014&#xD;&#xA;,CIRB Amendment Version 1 Snapshot 1, 4-Oct-2014&#xD;&#xA;,CIRB Amendment Version 2 Snapshot 2, 9-Oct-2014&#xD;&#xA;,CIRB Amendment Version 2 Snapshot 2, 10-Oct-2014&#xD;&#xA;,Current Version, 11-Oct-2014" measuredWidth="741" measuredHeight="233" alternative="#eeeeee">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Master" id="28" x="264" y="226" measuredWidth="25" measuredHeight="28">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Checkbox"/>
+    <overrides>
+      <widgets ref="18" text=" "/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Master" id="30" x="264" y="267" measuredWidth="25" measuredHeight="28">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Checkbox"/>
+    <overrides>
+      <widgets ref="18" text=" "/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Master" id="31" x="264" y="310" measuredWidth="25" measuredHeight="28">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Checkbox"/>
+    <overrides>
+      <widgets ref="18" text=" "/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Master" id="32" x="264" y="346" measuredWidth="25" measuredHeight="28">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Checkbox"/>
+    <overrides>
+      <widgets ref="18" text=" "/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Master" id="33" x="264" y="395" measuredWidth="25" measuredHeight="28">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Checkbox"/>
+    <overrides>
+      <widgets ref="18" text=" "/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Master" id="34" x="264" y="246" measuredWidth="25" measuredHeight="28">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Checkbox"/>
+    <overrides>
+      <widgets ref="18" text=" "/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Master" id="35" x="264" y="288" measuredWidth="25" measuredHeight="28">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Checkbox"/>
+    <overrides>
+      <widgets ref="18" text=" "/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Master" id="36" x="264" y="328" measuredWidth="25" measuredHeight="28">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Checkbox"/>
+    <overrides>
+      <widgets ref="18" text=" ">
+        <attributes key="selected" value="true"/>
+      </widgets>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Master" id="37" x="264" y="373" measuredWidth="25" measuredHeight="28">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Checkbox"/>
+    <overrides>
+      <widgets ref="18" text=" "/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Master" id="38" x="264" y="412" measuredWidth="25" measuredHeight="28">
+    <screen xsi:type="model:WidgetGroup" href="../../../assets/Bootstrap/Forms.screen#Checkbox"/>
+    <overrides>
+      <widgets ref="18" text=" ">
+        <attributes key="selected" value="true"/>
+      </widgets>
+    </overrides>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

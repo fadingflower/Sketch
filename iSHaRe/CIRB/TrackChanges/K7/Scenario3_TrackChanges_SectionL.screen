@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../../IACUC/Frame/Frame_iShaRe_PI.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Breadcrumbs" id="2" x="30" y="178" text="Changes" measuredWidth="50" measuredHeight="23">
+    <font bold="true"/>
+    <items x="0" y="0" width="47" height="23" text="Changes"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="3" x="20" y="204" width="1313" measuredWidth="1313" measuredHeight="6"/>
+  <widgets xsi:type="model:Image" id="4" x="1197" y="171" measuredWidth="125" measuredHeight="33" src="../../../assets/Sec_Rev_Change_Summary_2_image(3).png"/>
+  <widgets xsi:type="model:Icon" id="5" x="33" y="215" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Label" id="6" x="72" y="219" text="Section K: Research Participant Characteristics" measuredWidth="263" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="7" x="32" y="248" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
+  <widgets xsi:type="model:Panel" id="29" x="63" y="256" width="417" height="23" measuredWidth="417" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="8" x="66" y="256" text="Section L: Research Participants – Pregnant Women, Fetuses &amp; Neonates" measuredWidth="409" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="53" x="60" y="288" text="L1. Please indicate if your research involves:" measuredWidth="230" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="57" x="79" y="306" width="201" height="23" measuredWidth="201" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Panel" id="58" x="79" y="326" width="346" height="23" measuredWidth="346" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Panel" id="59" x="79" y="347" width="346" height="23" measuredWidth="346" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="54" x="79" y="306" text="[ X ] Pregnant Women and Foetuses. " measuredWidth="201" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="55" x="79" y="330" text="[ X ] Neonates of Uncertain Viability and/or Nonviable neonates. " measuredWidth="341" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="56" x="79" y="351" text="[   ] Neonates of Uncertain Viability and/or Nonviable neonates. " measuredWidth="337" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="60" x="60" y="378" width="704" height="31" text="L2. For research studies that involve pregnant women, fetuses and/or neonates, the research must meet specific criteria. Please provide protocol specific information explaining how your proposed research project meets ALL of the following criteria." measuredWidth="704" measuredHeight="31">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="62" x="77" y="413" width="101" height="23" measuredWidth="101" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="61" x="77" y="413" text="this is a demo text" measuredWidth="101" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="63" x="60" y="438" width="671" height="19" text="L3. Describe if the risk to the foetus is the least possible in order to achieve the research objectives." measuredWidth="671" measuredHeight="19">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="64" x="77" y="456" width="101" height="23" measuredWidth="101" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="65" x="77" y="456" text="this is a demo text" measuredWidth="101" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="66" x="60" y="478" width="733" height="19" text="L4. Describe the additional safeguards that will be provided to protect the rights, safety and welfare of these vulnerable participants." measuredWidth="733" measuredHeight="19">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="67" x="77" y="497" width="101" height="23" measuredWidth="101" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="68" x="77" y="497" text="this is a demo text" measuredWidth="101" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="69" x="60" y="528" text="L5. Special Informed Consent Requirements (Check all that apply). " measuredWidth="352" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="76" x="73" y="548" width="330" height="23" measuredWidth="330" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="70" x="77" y="552" text="[ X ] I will obtain consent from the pregnant women because: " measuredWidth="326" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="77" x="77" y="659" width="804" height="23" measuredWidth="804" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Panel" id="78" x="77" y="637" width="661" height="23" measuredWidth="661" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Panel" id="79" x="107" y="608" width="606" height="33" measuredWidth="606" measuredHeight="33" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Panel" id="80" x="107" y="590" width="527" height="19" measuredWidth="527" measuredHeight="19" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Panel" id="81" x="107" y="568" width="420" height="23" measuredWidth="420" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="71" x="107" y="572" text="[ X ] Research holds out the prospect of direct benefits to the pregnant women. " measuredWidth="420" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="72" x="107" y="590" text="[ X ] Research holds out the prospect of direct benefits to both the pregnant women and the foetus. " measuredWidth="527" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="73" x="107" y="608" width="614" height="41" text="[   ] Risk to the foetus is not greater than minimal and the purpose of the research is the development of important biomedical knowledge that cannot be obtained by any other means." measuredWidth="614" measuredHeight="41">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="74" x="77" y="640" width="716" height="17" text="[   ] I will also obtain consent from the father because the research holds out the prospect of direct benefit solely to the foetus. " measuredWidth="716" measuredHeight="17">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="75" x="77" y="658" width="820" height="17" text="[   ] I The Informed Consent document(s) will provide information regarding the reasonably foreseeable impact of the research on the foetus or neonate. " measuredWidth="820" measuredHeight="17">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="82" x="30" y="180" width="51" height="20" measuredWidth="51" measuredHeight="20" alpha="0" foreground="#ffffff" link="Scenario3_After1.screen"/>
+  <widgets xsi:type="model:Panel" id="83" x="70" y="214" width="265" height="33" measuredWidth="265" measuredHeight="33" alpha="0" foreground="#ffffff" link="Scenario3_TrackChanges_SectionK.screen"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

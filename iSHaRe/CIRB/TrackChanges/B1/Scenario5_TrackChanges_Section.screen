@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="69" x="-40" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../../IACUC/Frame/Frame_iShaRe.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Breadcrumbs" id="2" x="-10" y="178" text="Changes" measuredWidth="50" measuredHeight="23">
+    <font bold="true"/>
+    <items x="0" y="0" width="47" height="23" text="Changes"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="3" x="-20" y="204" width="1313" measuredWidth="1313" measuredHeight="6"/>
+  <widgets xsi:type="model:Icon" id="19" x="-7" y="391" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
+  <widgets xsi:type="model:Label" id="20" x="32" y="400" text="Section I: Study Sites and Recruitment Targets" measuredWidth="264" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="21" x="-7" y="218" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
+  <widgets xsi:type="model:Label" id="22" x="32" y="222" text="Section B : Study Sites, Study Team &amp; Submission Board" measuredWidth="315" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="24" x="32" y="253" width="504" height="24" text="B1. Please select the study sites " measuredWidth="504" measuredHeight="24">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="25" x="53" y="273" text="(i) SingHealth and Partner Institutions" measuredWidth="199" measuredHeight="15">
+    <font bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="29" x="67" y="295" width="181" height="32" measuredWidth="181" measuredHeight="32" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:HLine" id="31" x="69" y="308" width="180" measuredWidth="180" measuredHeight="6"/>
+  <widgets xsi:type="model:Panel" id="32" x="487" y="297" width="189" height="32" measuredWidth="189" measuredHeight="32" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="34" x="487" y="304" text=" Singapore General Hospital (SGH) " measuredWidth="189" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="53" x="32" y="672" measuredWidth="6" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="55" x="73" y="301" text="Changi General Hospital (CGH)" measuredWidth="170" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="30" x="255" y="301" width="233" text="KK Women's and Children's Hospital (KKH) " measuredWidth="233" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="72" x="53" y="333" text="(ii) NHG and Partner Institutions " measuredWidth="178" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="73" x="67" y="361" width="284" height="32" measuredWidth="284" measuredHeight="32" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="74" x="67" y="367" width="279" text="Jurong Health Services at Alexandra Hospital (JHS) " measuredWidth="279" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="75" x="30" y="429" width="1210" height="20" text="I1. Please state the target number of research participants to be recruited for each study site in Singapore. If exact numbers are not available, please give an approximate number range in the Recruitment Target. " measuredWidth="1210" measuredHeight="20">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="76" x="1153" y="173" measuredWidth="125" measuredHeight="33" src="../../../assets/Sec_Rev_Change_Summary_2_image(3).png"/>
+  <widgets xsi:type="model:Panel" id="78" x="48" y="477" width="1016" height="24" measuredWidth="1016" measuredHeight="24" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:HLine" id="79" x="53" y="486" width="1010" measuredWidth="1010" measuredHeight="6"/>
+  <widgets xsi:type="model:Panel" id="80" x="552" y="504" width="16" height="24" measuredWidth="16" measuredHeight="24" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:HLine" id="81" x="552" y="514" width="16" measuredWidth="16" measuredHeight="6"/>
+  <widgets xsi:type="model:Panel" id="82" x="572" y="504" width="17" height="24" measuredWidth="17" measuredHeight="24" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Panel" id="83" x="808" y="506" width="16" height="22" measuredWidth="16" measuredHeight="22" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:HLine" id="84" x="809" y="514" width="16" measuredWidth="16" measuredHeight="6"/>
+  <widgets xsi:type="model:Panel" id="85" x="823" y="504" width="17" height="24" measuredWidth="17" measuredHeight="24" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Panel" id="86" x="53" y="527" width="1009" height="66" measuredWidth="1009" measuredHeight="66" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Table" id="77" x="48" y="448" width="1016" height="145" text="Study Site,Total Recruitment Target,Males,Females,Children&#xD;&#xA;Changi General Hospital (CGH),10,3,2,5&#xD;&#xA;KK Women's and Children's Hospital (KKH),20 15,10 5,10,0&#xD;&#xA;Singapore General Hospital (SGH),30,10,20,0&#xD;&#xA;Jurong Health Services at Alexandra Hospital (JHS),5,0,0,5" measuredWidth="1016" measuredHeight="145" alpha="0" alternative="#eeeeee">
+    <font size="15px"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="87" x="-10" y="178" width="106" height="27" measuredWidth="106" measuredHeight="27" alpha="0" foreground="#ffffff" link="Scenario5_After1.screen"/>
+  <hRuler/>
+  <vRuler>
+    <guides position="544"/>
+  </vRuler>
+  <font size="12px"/>
+</model:Screen>

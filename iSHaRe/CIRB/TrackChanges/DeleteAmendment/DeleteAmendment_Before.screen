@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Image" id="4" width="1352" locked="true" measuredWidth="1352" measuredHeight="728" src="../../../assets/DeleteAmendment_Before_image(1).png"/>
+  <widgets xsi:type="model:Label" id="3" x="1232" y="568" text="Delete" measuredWidth="44" measuredHeight="23" foreground="#3d85c6" link="DeleteAmendment_Confirm.screen">
+    <font bold="true"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Image" id="1" x="-8" width="1345" height="713" measuredWidth="1345" measuredHeight="713" src="../../../assets/Scenario3_After4_image.png"/>
+  <widgets xsi:type="model:Panel" id="2" x="29" y="457" width="225" height="33" measuredWidth="225" measuredHeight="33" alpha="0" foreground="#ffffff" link="Scenario3_After2.screen"/>
+  <widgets xsi:type="model:Panel" id="3" x="29" y="489" width="225" height="31" measuredWidth="225" measuredHeight="31" alpha="0" foreground="#ffffff" link="Scenario3_After3.screen"/>
+  <widgets xsi:type="model:Panel" id="4" x="29" y="527" width="225" height="33" measuredWidth="225" measuredHeight="33" alpha="0" foreground="#ffffff"/>
+  <widgets xsi:type="model:Panel" id="5" x="29" y="571" width="225" height="29" measuredWidth="225" measuredHeight="29" alpha="0" foreground="#ffffff" link="Scenario3_After5.screen"/>
+  <widgets xsi:type="model:Panel" id="6" x="29" y="420" width="225" height="38" measuredWidth="225" measuredHeight="38" alpha="0" foreground="#ffffff" link="Scenario3_After1.screen"/>
+  <widgets xsi:type="model:Panel" id="7" x="310" y="174" width="36" height="32" measuredWidth="36" measuredHeight="32" alpha="0" foreground="#ffffff" link="Scenario3_TrackChanges_SectionK.screen"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

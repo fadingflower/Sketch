@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Image" id="2" width="1345" height="713" measuredWidth="1345" measuredHeight="713" src="../../assets/Scenario6_Before1_image.png"/>
-  <widgets xsi:type="model:Panel" id="3" x="472" y="320" width="177" height="41" measuredWidth="177" measuredHeight="41" alpha="0" foreground="#ffffff" link="Scenario6_After1.screen"/>
-  <widgets xsi:type="model:Panel" id="4" x="32" y="380" width="225" height="29" measuredWidth="225" measuredHeight="29" alpha="0" foreground="#ffffff" link="Scenario6_Before2.screen"/>
-  <hRuler/>
-  <vRuler/>
-  <font size="12px"/>
-</model:Screen>

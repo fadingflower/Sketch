@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Image" id="1" width="1352" height="720" locked="true" measuredWidth="1352" measuredHeight="720" src="../../../assets/Scenario2_After1_image.png"/>
+  <widgets xsi:type="model:Label" id="6" x="1192" y="256" text="Reset" measuredWidth="38" measuredHeight="23" foreground="#3d85c6" link="%20Scenario1_After1_Reset.screen">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="15" x="32" y="520" width="248" height="32" measuredWidth="248" measuredHeight="32" alpha="0" foreground="#ffffff" link="Scenario1_After2.screen"/>
+  <widgets xsi:type="model:Panel" id="16" x="317" y="176" width="40" height="32" measuredWidth="40" measuredHeight="32" alpha="0" foreground="#ffffff" link="Scenario1_TrackChanges_SectionG.screen"/>
+  <widgets xsi:type="model:Icon" id="17" x="421" y="179" measuredWidth="32" measuredHeight="32" icon="assets/gl-list-alt (large)" link="Scenario1_After1_VersionCompare.screen"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
