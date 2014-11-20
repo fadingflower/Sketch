@@ -3,9 +3,9 @@
   <widgets xsi:type="model:Master" id="55" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
     <screen xsi:type="model:Screen" href="../../../IACUC/Frame/Frame_iShaRe.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Breadcrumbs" id="2" x="30" y="178" text="Changes" measuredWidth="50" measuredHeight="23">
+  <widgets xsi:type="model:Breadcrumbs" id="2" x="30" y="178" text="Amendment Summary" measuredWidth="130" measuredHeight="23">
     <font bold="true"/>
-    <items x="0" y="0" width="47" height="23" text="Changes"/>
+    <items x="0" y="0" width="127" height="23" text="Amendment Summary"/>
   </widgets>
   <widgets xsi:type="model:HLine" id="3" x="20" y="204" width="1313" measuredWidth="1313" measuredHeight="6"/>
   <widgets xsi:type="model:Icon" id="21" x="33" y="220" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>

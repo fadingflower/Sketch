@@ -151,9 +151,6 @@
   <widgets xsi:type="model:Label" id="101" x="328" y="352" text="this is a test title" measuredWidth="90" measuredHeight="21">
     <font size="11px" underline="true"/>
   </widgets>
-  <widgets xsi:type="model:Text" id="102" x="575" y="340" text="This is a demo reason for Section D" measuredWidth="186" measuredHeight="15">
-    <font/>
-  </widgets>
   <widgets xsi:type="model:HLine" id="103" x="277" y="548" width="51" measuredWidth="51" measuredHeight="6"/>
   <widgets xsi:type="model:HLine" id="104" x="379" y="548" width="74" measuredWidth="74" measuredHeight="6"/>
   <widgets xsi:type="model:HLine" id="105" x="592" y="548" width="25" measuredWidth="25" measuredHeight="6"/>

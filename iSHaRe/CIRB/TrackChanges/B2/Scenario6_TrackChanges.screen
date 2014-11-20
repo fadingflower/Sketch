@@ -3,9 +3,9 @@
   <widgets xsi:type="model:Master" id="69" x="-40" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
     <screen xsi:type="model:Screen" href="../../../IACUC/Frame/Frame_iShaRe.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Breadcrumbs" id="2" x="-10" y="178" text="Changes" measuredWidth="50" measuredHeight="23">
+  <widgets xsi:type="model:Breadcrumbs" id="2" x="-10" y="178" text="Amendment Summary" measuredWidth="130" measuredHeight="23">
     <font bold="true"/>
-    <items x="0" y="0" width="47" height="23" text="Changes"/>
+    <items x="0" y="0" width="127" height="23" text="Amendment Summary"/>
   </widgets>
   <widgets xsi:type="model:HLine" id="3" x="-20" y="204" width="1313" measuredWidth="1313" measuredHeight="6"/>
   <widgets xsi:type="model:Icon" id="19" x="-7" y="431" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
@@ -81,7 +81,7 @@
   <widgets xsi:type="model:Text" id="122" x="102" y="702" width="1001" height="19" text="[ X ] Financial interests (e.g. stocks, stock options or other ownership interests) in the assets or liabilities of any organisation that may benefit from the research activity. " measuredWidth="1001" measuredHeight="19">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Panel" id="124" x="-10" y="178" width="44" height="26" measuredWidth="44" measuredHeight="26" alpha="0" foreground="#ffffff" link="Scenario6_After1.screen"/>
+  <widgets xsi:type="model:Panel" id="124" x="-10" y="177" width="136" height="26" measuredWidth="136" measuredHeight="26" alpha="0" foreground="#ffffff" link="Scenario6_After1.screen"/>
   <hRuler/>
   <vRuler>
     <guides position="544"/>

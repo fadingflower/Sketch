@@ -3,9 +3,9 @@
   <widgets xsi:type="model:Master" id="1" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
     <screen xsi:type="model:Screen" href="../../../IACUC/Frame/Frame_iShaRe_PI.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Breadcrumbs" id="2" x="30" y="178" text="Changes" measuredWidth="50" measuredHeight="23">
+  <widgets xsi:type="model:Breadcrumbs" id="2" x="30" y="178" text="Amendment Summary" measuredWidth="130" measuredHeight="23">
     <font bold="true"/>
-    <items x="0" y="0" width="47" height="23" text="Changes"/>
+    <items x="0" y="0" width="127" height="23" text="Amendment Summary"/>
   </widgets>
   <widgets xsi:type="model:HLine" id="3" x="20" y="204" width="1313" measuredWidth="1313" measuredHeight="6"/>
   <widgets xsi:type="model:Image" id="4" x="1197" y="171" measuredWidth="125" measuredHeight="33" src="../../../assets/Sec_Rev_Change_Summary_2_image(3).png"/>
@@ -49,7 +49,7 @@
   <widgets xsi:type="model:HLine" id="54" x="60" y="361" width="248" measuredWidth="248" measuredHeight="6"/>
   <widgets xsi:type="model:HLine" id="55" x="60" y="411" width="244" measuredWidth="244" measuredHeight="6"/>
   <widgets xsi:type="model:HLine" id="56" x="57" y="462" width="354" measuredWidth="354" measuredHeight="6"/>
-  <widgets xsi:type="model:Panel" id="57" x="27" y="181" width="53" height="20" measuredWidth="53" measuredHeight="20" alpha="0" foreground="#ffffff" link="Scenario4_After.screen"/>
+  <widgets xsi:type="model:Panel" id="57" x="30" y="180" width="130" height="20" measuredWidth="130" measuredHeight="20" alpha="0" foreground="#ffffff" link="Scenario4_After.screen"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>

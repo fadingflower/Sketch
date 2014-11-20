@@ -3,9 +3,9 @@
   <widgets xsi:type="model:Master" id="69" x="-40" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
     <screen xsi:type="model:Screen" href="../../../IACUC/Frame/Frame_iShaRe.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Breadcrumbs" id="2" x="-10" y="178" text="Changes" measuredWidth="50" measuredHeight="23">
+  <widgets xsi:type="model:Breadcrumbs" id="2" x="-10" y="178" text="Amendment Summary" measuredWidth="130" measuredHeight="23">
     <font bold="true"/>
-    <items x="0" y="0" width="47" height="23" text="Changes"/>
+    <items x="0" y="0" width="127" height="23" text="Amendment Summary"/>
   </widgets>
   <widgets xsi:type="model:HLine" id="3" x="-20" y="204" width="1313" measuredWidth="1313" measuredHeight="6"/>
   <widgets xsi:type="model:Icon" id="19" x="-7" y="391" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-right (large)"/>
@@ -60,7 +60,7 @@
   <widgets xsi:type="model:Table" id="77" x="48" y="448" width="1016" height="145" text="Study Site,Total Recruitment Target,Males,Females,Children&#xD;&#xA;Changi General Hospital (CGH),10,3,2,5&#xD;&#xA;KK Women's and Children's Hospital (KKH),20 15,10 5,10,0&#xD;&#xA;Singapore General Hospital (SGH),30,10,20,0&#xD;&#xA;Jurong Health Services at Alexandra Hospital (JHS),5,0,0,5" measuredWidth="1016" measuredHeight="145" alpha="0" alternative="#eeeeee">
     <font size="15px"/>
   </widgets>
-  <widgets xsi:type="model:Panel" id="87" x="-10" y="178" width="106" height="27" measuredWidth="106" measuredHeight="27" alpha="0" foreground="#ffffff" link="Scenario5_After1.screen"/>
+  <widgets xsi:type="model:Panel" id="87" x="-10" y="176" width="129" height="27" measuredWidth="129" measuredHeight="27" alpha="0" foreground="#ffffff" link="Scenario5_After1.screen"/>
   <hRuler/>
   <vRuler>
     <guides position="544"/>

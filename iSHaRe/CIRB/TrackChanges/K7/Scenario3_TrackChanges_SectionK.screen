@@ -3,9 +3,9 @@
   <widgets xsi:type="model:Master" id="1" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
     <screen xsi:type="model:Screen" href="../../../IACUC/Frame/Frame_iShaRe_PI.screen#/"/>
   </widgets>
-  <widgets xsi:type="model:Breadcrumbs" id="2" x="30" y="178" text="Changes" measuredWidth="50" measuredHeight="23">
+  <widgets xsi:type="model:Breadcrumbs" id="2" x="30" y="178" text="Amendment Summary" measuredWidth="130" measuredHeight="23">
     <font bold="true"/>
-    <items x="0" y="0" width="47" height="23" text="Changes"/>
+    <items x="0" y="0" width="127" height="23" text="Amendment Summary"/>
   </widgets>
   <widgets xsi:type="model:HLine" id="3" x="20" y="204" width="1313" measuredWidth="1313" measuredHeight="6"/>
   <widgets xsi:type="model:Image" id="4" x="1197" y="171" measuredWidth="125" measuredHeight="33" src="../../../assets/Sec_Rev_Change_Summary_2_image(3).png"/>
@@ -65,7 +65,7 @@
   <widgets xsi:type="model:Label" id="52" x="64" y="541" text="Section O: Research Participant – Cognitively Impaired Persons" measuredWidth="353" measuredHeight="23">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Panel" id="53" x="30" y="180" width="51" height="20" measuredWidth="51" measuredHeight="20" alpha="0" foreground="#ffffff" link="Scenario3_After1.screen"/>
+  <widgets xsi:type="model:Panel" id="53" x="29" y="180" width="140" height="20" measuredWidth="140" measuredHeight="20" alpha="0" foreground="#ffffff" link="Scenario3_After1.screen"/>
   <widgets xsi:type="model:Panel" id="54" x="60" y="392" width="421" height="23" measuredWidth="421" measuredHeight="23" alpha="0" foreground="#ffffff" link="Scenario3_TrackChanges_SectionL.screen"/>
   <hRuler/>
   <vRuler/>
