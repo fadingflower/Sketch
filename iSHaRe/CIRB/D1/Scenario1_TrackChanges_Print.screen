@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Master" id="1" locked="true" measuredWidth="1347" measuredHeight="743" dimmed="true">
+    <screen xsi:type="model:Screen" href="../../IACUC/Frame/Frame_iShaRe_PI.screen#/"/>
+  </widgets>
+  <widgets xsi:type="model:Breadcrumbs" id="2" x="30" y="178" text="Changes" measuredWidth="50" measuredHeight="23">
+    <font bold="true"/>
+    <items x="0" y="0" width="47" height="23" text="Changes"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="3" x="20" y="204" width="1313" measuredWidth="1313" measuredHeight="6"/>
+  <widgets xsi:type="model:Image" id="4" x="1197" y="171" measuredWidth="125" measuredHeight="33" src="../../assets/Sec_Rev_Change_Summary_2_image(3).png"/>
+  <widgets xsi:type="model:Icon" id="5" x="33" y="215" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
+  <widgets xsi:type="model:Label" id="6" x="72" y="224" text="Section D: Nature of Research" measuredWidth="174" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="7" x="33" y="416" measuredWidth="32" measuredHeight="32" icon="assets/gl-chevron-down (large)"/>
+  <widgets xsi:type="model:Panel" id="10" x="72" y="280" width="174" height="23" measuredWidth="174" measuredHeight="23" background="#ff0000" foreground="#ff0000"/>
+  <widgets xsi:type="model:Label" id="9" x="72" y="280" width="174" text="Questionnaire/Survey/Interviews " measuredWidth="174" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="11" x="74" y="288" width="172" measuredWidth="172" measuredHeight="6"/>
+  <widgets xsi:type="model:Panel" id="14" x="248" y="280" width="392" height="23" measuredWidth="392" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="12" x="248" y="284" text="Clinical Trials (which includes Drug. Device and Surgical-Procedure Trials) " measuredWidth="392" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="15" x="72" y="306" text="What does the study involve?" measuredWidth="160" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="17" x="92" y="328" width="86" height="23" measuredWidth="86" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="16" x="92" y="328" text="Drug/Biologic" measuredWidth="80" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="19" x="72" y="416" width="232" height="27" measuredWidth="232" measuredHeight="27" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="8" x="72" y="420" text="Section G: Research Details-Clinical Trials" measuredWidth="232" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="20" x="72" y="452" width="761" height="49" text="G1. Describe the study protocol(s) to be used. Include information of the study drug / device / surgical procedures that will be used in the trial. If the study involves the use of study drug / device, describe how you plan to manage the receipt, handling, storage, utilization, and disposal of the study drug/device." measuredWidth="761" measuredHeight="49">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="22" x="74" y="500" width="111" height="33" measuredWidth="111" measuredHeight="33" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="21" x="82" y="508" text="​this is a demo text&#xD;&#xA;" measuredWidth="96" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="23" x="72" y="548" width="568" height="17" text="G2. Please attach the Investigator's Brochure or local product information sheet/leaflet, as applicable.  " measuredWidth="568" measuredHeight="17">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="25" x="74" y="596" width="807" height="26" measuredWidth="807" measuredHeight="26" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Table" id="24" x="74" y="572" width="807" text="Name,Document Name,Version No.,Version Date&#xD;&#xA;sggcp2,sggcp2.pdf,1,17 Nov 2014" measuredWidth="807" measuredHeight="50" alpha="0" horizontalLines="true" alternative="#eeeeee">
+    <font size="13px"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="26" x="72" y="638" width="689" height="17" text="G3. Describe standard/alternative treatments used at your institution for this condition. " measuredWidth="689" measuredHeight="17">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="27" x="74" y="654" width="111" height="33" measuredWidth="111" measuredHeight="33" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Text" id="28" x="82" y="662" text="​this is a demo text&#xD;&#xA;" measuredWidth="96" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="29" x="64" y="256" text="D1. Please select one category that best describes your research activities. " measuredWidth="389" measuredHeight="15">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="31" x="107" y="360" text="Please incdicate the Phase of the Trail" measuredWidth="204" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="32" x="133" y="382" width="109" height="23" measuredWidth="109" measuredHeight="23" background="#ffff00" foreground="#ffff00"/>
+  <widgets xsi:type="model:Label" id="33" x="133" y="382" text="this is a test title" measuredWidth="90" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="35" x="113" y="174" width="32" height="32" measuredWidth="32" measuredHeight="32" icon="assets/gl-print (large)"/>
+  <widgets xsi:type="model:Panel" id="36" y="52" width="1346" height="690" locked="true" measuredWidth="1346" measuredHeight="690" background="#000000" alpha="101"/>
+  <widgets xsi:type="model:Panel" id="37" x="317" y="176" width="40" height="32" measuredWidth="40" measuredHeight="32" alpha="0" foreground="#ffffff"/>
+  <widgets xsi:type="model:Icon" id="38" x="421" y="179" measuredWidth="32" measuredHeight="32" icon="assets/gl-list-alt (large)"/>
+  <widgets xsi:type="model:Panel" id="39" x="224" y="144" width="784" height="496" measuredWidth="784" measuredHeight="496"/>
+  <widgets xsi:type="model:Master" id="40" x="870" y="602" measuredWidth="57" measuredHeight="28">
+    <screen xsi:type="model:WidgetGroup" href="../../assets/Bootstrap/Buttons.screen#Button%20Primary"/>
+    <overrides>
+      <widgets ref="35" width="57" height="28" text="Print">
+        <font size="12px"/>
+      </widgets>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="41" x="966" y="154" measuredWidth="32" measuredHeight="32" icon="delete (large)"/>
+  <widgets xsi:type="model:Master" id="42" x="934" y="602" measuredWidth="64" measuredHeight="28" link="Scenario1_TrackChanges_SectionG.screen">
+    <screen xsi:type="model:WidgetGroup" href="../../assets/Bootstrap/Buttons.screen#Button"/>
+    <overrides>
+      <widgets ref="21" height="28" text="Cancel"/>
+    </overrides>
+  </widgets>
+  <widgets xsi:type="model:Label" id="43" x="234" y="158" text="Amendment Summary Print" measuredWidth="162" measuredHeight="23">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="44" x="224" y="184" width="783" measuredWidth="783" measuredHeight="6"/>
+  <widgets xsi:type="model:VScrollbar" id="45" x="981" y="207" height="385" measuredWidth="17" measuredHeight="385"/>
+  <widgets xsi:type="model:Panel" id="46" x="240" y="207" width="741" height="384" measuredWidth="741" measuredHeight="384"/>
+  <widgets xsi:type="model:Panel" id="58" x="980" y="572" width="18" height="20" measuredWidth="18" measuredHeight="20" alpha="0" foreground="#ffffff" link="Scenario1_TrackChanges_Print2.screen"/>
+  <widgets xsi:type="model:Label" id="59" x="346" y="210" text="Study Amendment Cover Note" measuredWidth="550" measuredHeight="62">
+    <font size="40px"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="60" x="250" y="270" width="711" height="313" text="&#xD;&#xA;Notes:&#xD;&#xA;&#xD;&#xA;1.Only 1 amendment can be submitted at a time. No amendment can be made until CIRB approval of the previous amendment. Please attach an amendment summary of the proposed changes to the Application Form under section “Other Attachments”. The amendment summary template can be downloaded from the CIRB website.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;2.Please click “Amend” on the top right corner to make amendment to the specific section of the application form.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;3.For protocol amendment, please attach the amended protocol (tracked and clean) under section F16. Please remove the previous version of the protocol. If an amendment summary is not present in the protocol, please also attach an amendment summary for the amended protocol.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;4.For Informed Consent Document amendment, please attach the amended Informed Consent Document (tracked and clean) under section P6. Please remove the previous version of the Informed Consent Document and attach an amendment summary for the amended Informed Consent Document. &#xD;&#xA;Will the enrolled study participants be informed of these changes?  &#xD;&#xA;Describe the proposed change(s) to the research and include a rationale for each proposed change. &#xD;&#xA;   this is a demo purpose&#xD;&#xA;&#xD;&#xA;Will the enrolled study participants be informed of these changes?  " measuredWidth="711" measuredHeight="313">
+    <font bold="false"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

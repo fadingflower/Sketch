@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Label" id="3" x="1256" y="568" text="Delete" measuredWidth="44" measuredHeight="23" foreground="#3d85c6">
+    <font bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="4" locked="true" measuredWidth="1366" measuredHeight="728" src="../../assets/DeleteAmendment_After_image.png"/>
+  <widgets xsi:type="model:Panel" id="6" x="320" y="560" width="992" height="30" measuredWidth="992" measuredHeight="30" foreground="#ffffff"/>
+  <widgets xsi:type="model:Panel" id="7" x="320" y="409" width="136" height="16" locked="true" measuredWidth="136" measuredHeight="16" foreground="#ffffff"/>
+  <widgets xsi:type="model:Label" id="8" x="329" y="404" width="116" text="Amendment" measuredWidth="116" measuredHeight="28" foreground="#6fa8dc">
+    <font size="15px" bold="true"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
